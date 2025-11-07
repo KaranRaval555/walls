@@ -4,6 +4,10 @@ A curated collection of wallpapers organized by categories.
 Click any thumbnail below to view the full-resolution image!
 
 ---
+# CREDITS
+
+All the credits of all the walls goes to the respected creators.
+---
 
 
 ## 📁 Catppuccin-Latte
@@ -498,3 +502,4 @@ Click any thumbnail below to view the full-resolution image!
 <a href="./xyarjun-collection/gruvbox/wp9992529-simon-stalenhag-wallpapers.jpg"><img src="./xyarjun-collection/gruvbox/wp9992529-simon-stalenhag-wallpapers.jpg" width="200"/></a> 
 
 ---
+# AND MANY MORE WALLS
