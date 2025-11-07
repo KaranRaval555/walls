@@ -1,0 +1,500 @@
+# 🖼️ Wallpaper Collection
+
+A curated collection of wallpapers organized by categories.  
+Click any thumbnail below to view the full-resolution image!
+
+---
+
+
+## 📁 Catppuccin-Latte
+
+<a href="./Catppuccin-Latte/5dIqO72.jpg"><img src="./Catppuccin-Latte/5dIqO72.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/b-782.jpg"><img src="./Catppuccin-Latte/b-782.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/delorean_pastel.png"><img src="./Catppuccin-Latte/delorean_pastel.png" width="200"/></a> 
+<a href="./Catppuccin-Latte/exitmothership-sunset-scene.jpg"><img src="./Catppuccin-Latte/exitmothership-sunset-scene.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/gavryl-by-your-side.jpg"><img src="./Catppuccin-Latte/gavryl-by-your-side.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/gustavo-arteaga-ancient-tree-shrine.png"><img src="./Catppuccin-Latte/gustavo-arteaga-ancient-tree-shrine.png" width="200"/></a> 
+<a href="./Catppuccin-Latte/hill-house.png"><img src="./Catppuccin-Latte/hill-house.png" width="200"/></a> 
+<a href="./Catppuccin-Latte/incognit0ergosum-stable-diffusion-ultimate-city-autumn-meadow.jpg"><img src="./Catppuccin-Latte/incognit0ergosum-stable-diffusion-ultimate-city-autumn-meadow.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/masterteacher-red-sky-background.jpg"><img src="./Catppuccin-Latte/masterteacher-red-sky-background.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/muriLLu-Anime-Scenery-Sunset.jpg"><img src="./Catppuccin-Latte/muriLLu-Anime-Scenery-Sunset.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/ogarart-lone-wanderer.jpg"><img src="./Catppuccin-Latte/ogarart-lone-wanderer.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/ogarart-purple-trees-2019-02-11.jpg"><img src="./Catppuccin-Latte/ogarart-purple-trees-2019-02-11.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/reindeer_forest.jpg"><img src="./Catppuccin-Latte/reindeer_forest.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/rocket_launch.png"><img src="./Catppuccin-Latte/rocket_launch.png" width="200"/></a> 
+<a href="./Catppuccin-Latte/samurai_bebop.png"><img src="./Catppuccin-Latte/samurai_bebop.png" width="200"/></a> 
+<a href="./Catppuccin-Latte/samurai_strike.jpg"><img src="./Catppuccin-Latte/samurai_strike.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/sekiro.jpg"><img src="./Catppuccin-Latte/sekiro.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/shaded_landscape.jpg"><img src="./Catppuccin-Latte/shaded_landscape.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/unknown-pink-rocky-cliffs-and-water.jpg"><img src="./Catppuccin-Latte/unknown-pink-rocky-cliffs-and-water.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/wallhaven-3z2j2d.jpg"><img src="./Catppuccin-Latte/wallhaven-3z2j2d.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/wallhaven-3zp6o9.jpg"><img src="./Catppuccin-Latte/wallhaven-3zp6o9.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/wallhaven-3zy1y9.png"><img src="./Catppuccin-Latte/wallhaven-3zy1y9.png" width="200"/></a> 
+<a href="./Catppuccin-Latte/wallhaven-p8mk6j.jpg"><img src="./Catppuccin-Latte/wallhaven-p8mk6j.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/wallhaven-pkk19p.jpg"><img src="./Catppuccin-Latte/wallhaven-pkk19p.jpg" width="200"/></a> 
+<a href="./Catppuccin-Latte/wallhaven-z8qldy.jpg"><img src="./Catppuccin-Latte/wallhaven-z8qldy.jpg" width="200"/></a> 
+
+---
+
+## 📁 Catppuccin-Mocha
+
+<a href="./Catppuccin-Mocha/Bridge.jpg"><img src="./Catppuccin-Mocha/Bridge.jpg" width="200"/></a> 
+<a href="./Catppuccin-Mocha/Feel_dominant.jpeg"><img src="./Catppuccin-Mocha/Feel_dominant.jpeg" width="200"/></a> 
+<a href="./Catppuccin-Mocha/Miles-Catppuccin.jpg"><img src="./Catppuccin-Mocha/Miles-Catppuccin.jpg" width="200"/></a> 
+<a href="./Catppuccin-Mocha/VAPORGRAM_IMG_1722335012833.png"><img src="./Catppuccin-Mocha/VAPORGRAM_IMG_1722335012833.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/ZQtHC817mOEO7sb.png"><img src="./Catppuccin-Mocha/ZQtHC817mOEO7sb.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/abstract.png"><img src="./Catppuccin-Mocha/abstract.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/aesthetic_deer.png"><img src="./Catppuccin-Mocha/aesthetic_deer.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/anime-skull.png"><img src="./Catppuccin-Mocha/anime-skull.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/arch-black.png"><img src="./Catppuccin-Mocha/arch-black.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/baby-star.png"><img src="./Catppuccin-Mocha/baby-star.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/black-hole.png"><img src="./Catppuccin-Mocha/black-hole.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/blueFeel.jpeg"><img src="./Catppuccin-Mocha/blueFeel.jpeg" width="200"/></a> 
+<a href="./Catppuccin-Mocha/boat_abondoned.jpg"><img src="./Catppuccin-Mocha/boat_abondoned.jpg" width="200"/></a> 
+<a href="./Catppuccin-Mocha/cat_leaves.png"><img src="./Catppuccin-Mocha/cat_leaves.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/doom.png"><img src="./Catppuccin-Mocha/doom.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/dragon.png"><img src="./Catppuccin-Mocha/dragon.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/escape_velocity.jpg"><img src="./Catppuccin-Mocha/escape_velocity.jpg" width="200"/></a> 
+<a href="./Catppuccin-Mocha/eva.png"><img src="./Catppuccin-Mocha/eva.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/eyes.png"><img src="./Catppuccin-Mocha/eyes.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/firewatch.jpg"><img src="./Catppuccin-Mocha/firewatch.jpg" width="200"/></a> 
+<a href="./Catppuccin-Mocha/forest_dark_winter.jpg"><img src="./Catppuccin-Mocha/forest_dark_winter.jpg" width="200"/></a> 
+<a href="./Catppuccin-Mocha/frieren.jpeg"><img src="./Catppuccin-Mocha/frieren.jpeg" width="200"/></a> 
+<a href="./Catppuccin-Mocha/girl_smoking.png"><img src="./Catppuccin-Mocha/girl_smoking.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/katana.jpg"><img src="./Catppuccin-Mocha/katana.jpg" width="200"/></a> 
+<a href="./Catppuccin-Mocha/mpv-shot0009.jpg"><img src="./Catppuccin-Mocha/mpv-shot0009.jpg" width="200"/></a> 
+<a href="./Catppuccin-Mocha/outer_wilds.png"><img src="./Catppuccin-Mocha/outer_wilds.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/raiden.png"><img src="./Catppuccin-Mocha/raiden.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/raiden_cat.png"><img src="./Catppuccin-Mocha/raiden_cat.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/raiden_ei.jpg"><img src="./Catppuccin-Mocha/raiden_ei.jpg" width="200"/></a> 
+<a href="./Catppuccin-Mocha/rebellious_tower.png"><img src="./Catppuccin-Mocha/rebellious_tower.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/retro-mario.png"><img src="./Catppuccin-Mocha/retro-mario.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/s4vitar.png"><img src="./Catppuccin-Mocha/s4vitar.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/skull.png"><img src="./Catppuccin-Mocha/skull.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/spooky_spill.jpg"><img src="./Catppuccin-Mocha/spooky_spill.jpg" width="200"/></a> 
+<a href="./Catppuccin-Mocha/switch_swirl.jpg"><img src="./Catppuccin-Mocha/switch_swirl.jpg" width="200"/></a> 
+<a href="./Catppuccin-Mocha/tele.jpg"><img src="./Catppuccin-Mocha/tele.jpg" width="200"/></a> 
+<a href="./Catppuccin-Mocha/wallpaper-theme-converter.png"><img src="./Catppuccin-Mocha/wallpaper-theme-converter.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/wallpaper-theme-converter1.png"><img src="./Catppuccin-Mocha/wallpaper-theme-converter1.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/waves.jpg"><img src="./Catppuccin-Mocha/waves.jpg" width="200"/></a> 
+<a href="./Catppuccin-Mocha/windows-error.jpg"><img src="./Catppuccin-Mocha/windows-error.jpg" width="200"/></a> 
+<a href="./Catppuccin-Mocha/woman.png"><img src="./Catppuccin-Mocha/woman.png" width="200"/></a> 
+<a href="./Catppuccin-Mocha/zzz.jpg"><img src="./Catppuccin-Mocha/zzz.jpg" width="200"/></a> 
+
+---
+
+## 📁 Oregairu
+
+<a href="./Oregairu/1059163.png"><img src="./Oregairu/1059163.png" width="200"/></a> 
+<a href="./Oregairu/1097670.jpg"><img src="./Oregairu/1097670.jpg" width="200"/></a> 
+<a href="./Oregairu/1230284.jpg"><img src="./Oregairu/1230284.jpg" width="200"/></a> 
+<a href="./Oregairu/770797.jpg"><img src="./Oregairu/770797.jpg" width="200"/></a> 
+<a href="./Oregairu/770807.jpg"><img src="./Oregairu/770807.jpg" width="200"/></a> 
+<a href="./Oregairu/770816.jpg"><img src="./Oregairu/770816.jpg" width="200"/></a> 
+<a href="./Oregairu/828541.jpg"><img src="./Oregairu/828541.jpg" width="200"/></a> 
+<a href="./Oregairu/898760.png"><img src="./Oregairu/898760.png" width="200"/></a> 
+<a href="./Oregairu/hikiyuki.png"><img src="./Oregairu/hikiyuki.png" width="200"/></a> 
+<a href="./Oregairu/hiratsuka.png"><img src="./Oregairu/hiratsuka.png" width="200"/></a> 
+<a href="./Oregairu/meow.png"><img src="./Oregairu/meow.png" width="200"/></a> 
+<a href="./Oregairu/wallhaven-4lrj7p.png"><img src="./Oregairu/wallhaven-4lrj7p.png" width="200"/></a> 
+<a href="./Oregairu/wallpaperflare.com_wallpaper (1).jpg"><img src="./Oregairu/wallpaperflare.com_wallpaper (1).jpg" width="200"/></a> 
+<a href="./Oregairu/wallpaperflare.com_wallpaper (2).jpg"><img src="./Oregairu/wallpaperflare.com_wallpaper (2).jpg" width="200"/></a> 
+<a href="./Oregairu/wallpaperflare.com_wallpaper (3).jpg"><img src="./Oregairu/wallpaperflare.com_wallpaper (3).jpg" width="200"/></a> 
+<a href="./Oregairu/wallpaperflare.com_wallpaper.jpg"><img src="./Oregairu/wallpaperflare.com_wallpaper.jpg" width="200"/></a> 
+<a href="./Oregairu/wp2137428-oregairu-wallpapers.png"><img src="./Oregairu/wp2137428-oregairu-wallpapers.png" width="200"/></a> 
+<a href="./Oregairu/wp2137444-oregairu-wallpapers.png"><img src="./Oregairu/wp2137444-oregairu-wallpapers.png" width="200"/></a> 
+<a href="./Oregairu/wp2137481-oregairu-wallpapers.png"><img src="./Oregairu/wp2137481-oregairu-wallpapers.png" width="200"/></a> 
+<a href="./Oregairu/wp2137504-oregairu-wallpapers.png"><img src="./Oregairu/wp2137504-oregairu-wallpapers.png" width="200"/></a> 
+<a href="./Oregairu/yui-1.jpg"><img src="./Oregairu/yui-1.jpg" width="200"/></a> 
+<a href="./Oregairu/yui.jpg"><img src="./Oregairu/yui.jpg" width="200"/></a> 
+<a href="./Oregairu/yuki-yui-1.jpg"><img src="./Oregairu/yuki-yui-1.jpg" width="200"/></a> 
+<a href="./Oregairu/yuki-yui-feet.jpg"><img src="./Oregairu/yuki-yui-feet.jpg" width="200"/></a> 
+<a href="./Oregairu/yuki-yui.jpg"><img src="./Oregairu/yuki-yui.jpg" width="200"/></a> 
+<a href="./Oregairu/yukino-1.jpg"><img src="./Oregairu/yukino-1.jpg" width="200"/></a> 
+<a href="./Oregairu/yukino-2.jpg"><img src="./Oregairu/yukino-2.jpg" width="200"/></a> 
+<a href="./Oregairu/yukino-3.png"><img src="./Oregairu/yukino-3.png" width="200"/></a> 
+<a href="./Oregairu/yukino-4.jpg"><img src="./Oregairu/yukino-4.jpg" width="200"/></a> 
+<a href="./Oregairu/yukino-5.png"><img src="./Oregairu/yukino-5.png" width="200"/></a> 
+<a href="./Oregairu/yukino.jpg"><img src="./Oregairu/yukino.jpg" width="200"/></a> 
+
+---
+
+## 📁 Rose-pine
+
+<a href="./Rose-pine/107.jpg"><img src="./Rose-pine/107.jpg" width="200"/></a> 
+<a href="./Rose-pine/1338168.png"><img src="./Rose-pine/1338168.png" width="200"/></a> 
+<a href="./Rose-pine/2jzlLHXn_o.jpg"><img src="./Rose-pine/2jzlLHXn_o.jpg" width="200"/></a> 
+<a href="./Rose-pine/50.jpg"><img src="./Rose-pine/50.jpg" width="200"/></a> 
+<a href="./Rose-pine/98E618FE-2564-41F8-9620-2F7C60388064.jpg"><img src="./Rose-pine/98E618FE-2564-41F8-9620-2F7C60388064.jpg" width="200"/></a> 
+<a href="./Rose-pine/KaliPink1.png"><img src="./Rose-pine/KaliPink1.png" width="200"/></a> 
+<a href="./Rose-pine/KaliPink3.png"><img src="./Rose-pine/KaliPink3.png" width="200"/></a> 
+<a href="./Rose-pine/alx-sunset-over-palm-trees.png"><img src="./Rose-pine/alx-sunset-over-palm-trees.png" width="200"/></a> 
+<a href="./Rose-pine/anime-dragon-character-illustration.jpg"><img src="./Rose-pine/anime-dragon-character-illustration.jpg" width="200"/></a> 
+<a href="./Rose-pine/b-444.jpg"><img src="./Rose-pine/b-444.jpg" width="200"/></a> 
+<a href="./Rose-pine/bastien-grivet-the-guy-and-the-id-checking-bot.jpg"><img src="./Rose-pine/bastien-grivet-the-guy-and-the-id-checking-bot.jpg" width="200"/></a> 
+<a href="./Rose-pine/blackwolfshadow1-wolf-of-the-night.jpg"><img src="./Rose-pine/blackwolfshadow1-wolf-of-the-night.jpg" width="200"/></a> 
+<a href="./Rose-pine/craig-nacroix-mountains.jpg"><img src="./Rose-pine/craig-nacroix-mountains.jpg" width="200"/></a> 
+<a href="./Rose-pine/flowers_1.jpg"><img src="./Rose-pine/flowers_1.jpg" width="200"/></a> 
+<a href="./Rose-pine/flowers_2.jpg"><img src="./Rose-pine/flowers_2.jpg" width="200"/></a> 
+<a href="./Rose-pine/flowers_3.jpg"><img src="./Rose-pine/flowers_3.jpg" width="200"/></a> 
+<a href="./Rose-pine/japan_mountain_pink.jpg"><img src="./Rose-pine/japan_mountain_pink.jpg" width="200"/></a> 
+<a href="./Rose-pine/japan_tower_pink.jpg"><img src="./Rose-pine/japan_tower_pink.jpg" width="200"/></a> 
+<a href="./Rose-pine/japanese-pagodas-clouds-desktop-wallpaper.jpg"><img src="./Rose-pine/japanese-pagodas-clouds-desktop-wallpaper.jpg" width="200"/></a> 
+<a href="./Rose-pine/ogarart-red-cave.jpg"><img src="./Rose-pine/ogarart-red-cave.jpg" width="200"/></a> 
+<a href="./Rose-pine/ogarart-red-mountains-lake-2019-10-06.jpg"><img src="./Rose-pine/ogarart-red-mountains-lake-2019-10-06.jpg" width="200"/></a> 
+<a href="./Rose-pine/ogarart-red-mountains.jpg"><img src="./Rose-pine/ogarart-red-mountains.jpg" width="200"/></a> 
+<a href="./Rose-pine/pool.png"><img src="./Rose-pine/pool.png" width="200"/></a> 
+<a href="./Rose-pine/saber_sakura_1.jpg"><img src="./Rose-pine/saber_sakura_1.jpg" width="200"/></a> 
+<a href="./Rose-pine/saber_sakura_2.jpg"><img src="./Rose-pine/saber_sakura_2.jpg" width="200"/></a> 
+<a href="./Rose-pine/saber_sakura_3.jpg"><img src="./Rose-pine/saber_sakura_3.jpg" width="200"/></a> 
+<a href="./Rose-pine/samurai_bebop_1.jpg"><img src="./Rose-pine/samurai_bebop_1.jpg" width="200"/></a> 
+<a href="./Rose-pine/samurai_bebop_2.jpg"><img src="./Rose-pine/samurai_bebop_2.jpg" width="200"/></a> 
+<a href="./Rose-pine/samurai_smoke.jpg"><img src="./Rose-pine/samurai_smoke.jpg" width="200"/></a> 
+<a href="./Rose-pine/scenary.jpg"><img src="./Rose-pine/scenary.jpg" width="200"/></a> 
+<a href="./Rose-pine/sunset_cats.png"><img src="./Rose-pine/sunset_cats.png" width="200"/></a> 
+<a href="./Rose-pine/unknown-couple-on-red-mountains.jpg"><img src="./Rose-pine/unknown-couple-on-red-mountains.jpg" width="200"/></a> 
+<a href="./Rose-pine/unknown-pink-sunset-mountain-trees.png"><img src="./Rose-pine/unknown-pink-sunset-mountain-trees.png" width="200"/></a> 
+<a href="./Rose-pine/wallhaven-01kgv4.jpg"><img src="./Rose-pine/wallhaven-01kgv4.jpg" width="200"/></a> 
+<a href="./Rose-pine/wallhaven-2kvj8g.jpg"><img src="./Rose-pine/wallhaven-2kvj8g.jpg" width="200"/></a> 
+<a href="./Rose-pine/wallhaven-j3gv2w.jpg"><img src="./Rose-pine/wallhaven-j3gv2w.jpg" width="200"/></a> 
+<a href="./Rose-pine/wallhaven-kx5z9m.jpg"><img src="./Rose-pine/wallhaven-kx5z9m.jpg" width="200"/></a> 
+<a href="./Rose-pine/wallhaven-qzeez5.png"><img src="./Rose-pine/wallhaven-qzeez5.png" width="200"/></a> 
+<a href="./Rose-pine/wallhaven-rd2jw1.png"><img src="./Rose-pine/wallhaven-rd2jw1.png" width="200"/></a> 
+<a href="./Rose-pine/wallpaper7.png"><img src="./Rose-pine/wallpaper7.png" width="200"/></a> 
+<a href="./Rose-pine/wallpaper8.png"><img src="./Rose-pine/wallpaper8.png" width="200"/></a> 
+<a href="./Rose-pine/wallpaper9.png"><img src="./Rose-pine/wallpaper9.png" width="200"/></a> 
+<a href="./Rose-pine/wallpaperflare.com_wallpaper.jpg"><img src="./Rose-pine/wallpaperflare.com_wallpaper.jpg" width="200"/></a> 
+<a href="./Rose-pine/wallpapersden.com_cool-red-mountains-4k.jpg"><img src="./Rose-pine/wallpapersden.com_cool-red-mountains-4k.jpg" width="200"/></a> 
+
+---
+
+## 📁 ashborn-collection
+
+<a href="./ashborn-collection/aero.jpg"><img src="./ashborn-collection/aero.jpg" width="200"/></a> 
+<a href="./ashborn-collection/ahh.jpg"><img src="./ashborn-collection/ahh.jpg" width="200"/></a> 
+<a href="./ashborn-collection/batman_mobileW.jpg"><img src="./ashborn-collection/batman_mobileW.jpg" width="200"/></a> 
+<a href="./ashborn-collection/boobski.jpg"><img src="./ashborn-collection/boobski.jpg" width="200"/></a> 
+<a href="./ashborn-collection/bui.jpg"><img src="./ashborn-collection/bui.jpg" width="200"/></a> 
+<a href="./ashborn-collection/cat.jpg"><img src="./ashborn-collection/cat.jpg" width="200"/></a> 
+<a href="./ashborn-collection/cawr.jpg"><img src="./ashborn-collection/cawr.jpg" width="200"/></a> 
+<a href="./ashborn-collection/clorinde.jpg"><img src="./ashborn-collection/clorinde.jpg" width="200"/></a> 
+<a href="./ashborn-collection/dogge.jpg"><img src="./ashborn-collection/dogge.jpg" width="200"/></a> 
+<a href="./ashborn-collection/earathlysteller.jpg"><img src="./ashborn-collection/earathlysteller.jpg" width="200"/></a> 
+<a href="./ashborn-collection/editoor.jpg"><img src="./ashborn-collection/editoor.jpg" width="200"/></a> 
+<a href="./ashborn-collection/erza.jpg"><img src="./ashborn-collection/erza.jpg" width="200"/></a> 
+<a href="./ashborn-collection/evergarden.jpg"><img src="./ashborn-collection/evergarden.jpg" width="200"/></a> 
+<a href="./ashborn-collection/evernight.jpg"><img src="./ashborn-collection/evernight.jpg" width="200"/></a> 
+<a href="./ashborn-collection/floatski.jpeg"><img src="./ashborn-collection/floatski.jpeg" width="200"/></a> 
+<a href="./ashborn-collection/gamaahh.jpg"><img src="./ashborn-collection/gamaahh.jpg" width="200"/></a> 
+<a href="./ashborn-collection/garden_of_words.jpg"><img src="./ashborn-collection/garden_of_words.jpg" width="200"/></a> 
+<a href="./ashborn-collection/genshin.jpeg"><img src="./ashborn-collection/genshin.jpeg" width="200"/></a> 
+<a href="./ashborn-collection/gogeta.jpg"><img src="./ashborn-collection/gogeta.jpg" width="200"/></a> 
+<a href="./ashborn-collection/goku.jpg"><img src="./ashborn-collection/goku.jpg" width="200"/></a> 
+<a href="./ashborn-collection/gokuDavegeta.jpg"><img src="./ashborn-collection/gokuDavegeta.jpg" width="200"/></a> 
+<a href="./ashborn-collection/gon.jpg"><img src="./ashborn-collection/gon.jpg" width="200"/></a> 
+<a href="./ashborn-collection/hanekawak.jpg"><img src="./ashborn-collection/hanekawak.jpg" width="200"/></a> 
+<a href="./ashborn-collection/hearta.jpg"><img src="./ashborn-collection/hearta.jpg" width="200"/></a> 
+<a href="./ashborn-collection/ichigo.jpg"><img src="./ashborn-collection/ichigo.jpg" width="200"/></a> 
+<a href="./ashborn-collection/instinct.jpg"><img src="./ashborn-collection/instinct.jpg" width="200"/></a> 
+<a href="./ashborn-collection/intha.jpg"><img src="./ashborn-collection/intha.jpg" width="200"/></a> 
+<a href="./ashborn-collection/jinwoo.jpg"><img src="./ashborn-collection/jinwoo.jpg" width="200"/></a> 
+<a href="./ashborn-collection/kamehameha.jpg"><img src="./ashborn-collection/kamehameha.jpg" width="200"/></a> 
+<a href="./ashborn-collection/kawi.jpg"><img src="./ashborn-collection/kawi.jpg" width="200"/></a> 
+<a href="./ashborn-collection/madara.jpg"><img src="./ashborn-collection/madara.jpg" width="200"/></a> 
+<a href="./ashborn-collection/miku.jpg"><img src="./ashborn-collection/miku.jpg" width="200"/></a> 
+<a href="./ashborn-collection/morales.jpeg"><img src="./ashborn-collection/morales.jpeg" width="200"/></a> 
+<a href="./ashborn-collection/myneighbortottoro.jpg"><img src="./ashborn-collection/myneighbortottoro.jpg" width="200"/></a> 
+<a href="./ashborn-collection/mystic.jpg"><img src="./ashborn-collection/mystic.jpg" width="200"/></a> 
+<a href="./ashborn-collection/onepiece.jpeg"><img src="./ashborn-collection/onepiece.jpeg" width="200"/></a> 
+<a href="./ashborn-collection/ragna.jpg"><img src="./ashborn-collection/ragna.jpg" width="200"/></a> 
+<a href="./ashborn-collection/rawr.jpg"><img src="./ashborn-collection/rawr.jpg" width="200"/></a> 
+<a href="./ashborn-collection/reddo.jpeg"><img src="./ashborn-collection/reddo.jpeg" width="200"/></a> 
+<a href="./ashborn-collection/reze.jpg"><img src="./ashborn-collection/reze.jpg" width="200"/></a> 
+<a href="./ashborn-collection/sagurai.jpg"><img src="./ashborn-collection/sagurai.jpg" width="200"/></a> 
+<a href="./ashborn-collection/sekaiP.jpg"><img src="./ashborn-collection/sekaiP.jpg" width="200"/></a> 
+<a href="./ashborn-collection/sex.jpg"><img src="./ashborn-collection/sex.jpg" width="200"/></a> 
+<a href="./ashborn-collection/shiboinger.jpg"><img src="./ashborn-collection/shiboinger.jpg" width="200"/></a> 
+<a href="./ashborn-collection/sigeyo.jpg"><img src="./ashborn-collection/sigeyo.jpg" width="200"/></a> 
+<a href="./ashborn-collection/slurp.jpg"><img src="./ashborn-collection/slurp.jpg" width="200"/></a> 
+<a href="./ashborn-collection/theArt.jpg"><img src="./ashborn-collection/theArt.jpg" width="200"/></a> 
+<a href="./ashborn-collection/tropic.jpg"><img src="./ashborn-collection/tropic.jpg" width="200"/></a> 
+<a href="./ashborn-collection/violet.jpg"><img src="./ashborn-collection/violet.jpg" width="200"/></a> 
+<a href="./ashborn-collection/wiafu.jpg"><img src="./ashborn-collection/wiafu.jpg" width="200"/></a> 
+<a href="./ashborn-collection/yuuko.jpg"><img src="./ashborn-collection/yuuko.jpg" width="200"/></a> 
+
+---
+
+## 📁 hikio-collection
+
+<a href="./hikio-collection/120256374_p0.png"><img src="./hikio-collection/120256374_p0.png" width="200"/></a> 
+<a href="./hikio-collection/1377793.png"><img src="./hikio-collection/1377793.png" width="200"/></a> 
+<a href="./hikio-collection/2b.jpg"><img src="./hikio-collection/2b.jpg" width="200"/></a> 
+<a href="./hikio-collection/5dIqO72.jpg"><img src="./hikio-collection/5dIqO72.jpg" width="200"/></a> 
+<a href="./hikio-collection/818991.jpg"><img src="./hikio-collection/818991.jpg" width="200"/></a> 
+<a href="./hikio-collection/HfTHAjN0wk4MkCQ.jpg"><img src="./hikio-collection/HfTHAjN0wk4MkCQ.jpg" width="200"/></a> 
+<a href="./hikio-collection/a_cartoon_of_a_flying_ship_with_buildings_and_a_person_walking.jpg"><img src="./hikio-collection/a_cartoon_of_a_flying_ship_with_buildings_and_a_person_walking.jpg" width="200"/></a> 
+<a href="./hikio-collection/a_city_at_night_with_lights.jpg"><img src="./hikio-collection/a_city_at_night_with_lights.jpg" width="200"/></a> 
+<a href="./hikio-collection/a_city_at_night_with_many_tall_buildings.jpg"><img src="./hikio-collection/a_city_at_night_with_many_tall_buildings.jpg" width="200"/></a> 
+<a href="./hikio-collection/a_city_skyline_at_night.jpg"><img src="./hikio-collection/a_city_skyline_at_night.jpg" width="200"/></a> 
+<a href="./hikio-collection/a_city_skyline_at_night_01.jpg"><img src="./hikio-collection/a_city_skyline_at_night_01.jpg" width="200"/></a> 
+<a href="./hikio-collection/a_city_skyline_with_a_tall_building.jpg"><img src="./hikio-collection/a_city_skyline_with_a_tall_building.jpg" width="200"/></a> 
+<a href="./hikio-collection/a_city_with_many_tall_buildings.jpg"><img src="./hikio-collection/a_city_with_many_tall_buildings.jpg" width="200"/></a> 
+<a href="./hikio-collection/a_colorful_buildings_on_a_cliff_by_the_water.jpg"><img src="./hikio-collection/a_colorful_buildings_on_a_cliff_by_the_water.jpg" width="200"/></a> 
+<a href="./hikio-collection/a_flower_in_a_window.jpg"><img src="./hikio-collection/a_flower_in_a_window.jpg" width="200"/></a> 
+<a href="./hikio-collection/a_mountain_with_snow_and_clouds_01.jpg"><img src="./hikio-collection/a_mountain_with_snow_and_clouds_01.jpg" width="200"/></a> 
+<a href="./hikio-collection/a_person_riding_a_bicycle_on_a_hill_with_sunflowers.jpeg"><img src="./hikio-collection/a_person_riding_a_bicycle_on_a_hill_with_sunflowers.jpeg" width="200"/></a> 
+<a href="./hikio-collection/a_road_surrounded_by_trees.jpg"><img src="./hikio-collection/a_road_surrounded_by_trees.jpg" width="200"/></a> 
+<a href="./hikio-collection/b-058.jpg"><img src="./hikio-collection/b-058.jpg" width="200"/></a> 
+<a href="./hikio-collection/backgrounds270.jpg"><img src="./hikio-collection/backgrounds270.jpg" width="200"/></a> 
+<a href="./hikio-collection/blue_moon_and_lake.jpg"><img src="./hikio-collection/blue_moon_and_lake.jpg" width="200"/></a> 
+<a href="./hikio-collection/cawr.jpg"><img src="./hikio-collection/cawr.jpg" width="200"/></a> 
+<a href="./hikio-collection/city.jpg"><img src="./hikio-collection/city.jpg" width="200"/></a> 
+<a href="./hikio-collection/dreamy.jpeg"><img src="./hikio-collection/dreamy.jpeg" width="200"/></a> 
+<a href="./hikio-collection/earathlysteller.jpg"><img src="./hikio-collection/earathlysteller.jpg" width="200"/></a> 
+<a href="./hikio-collection/greenery_mountain.jpg"><img src="./hikio-collection/greenery_mountain.jpg" width="200"/></a> 
+<a href="./hikio-collection/intha.jpg"><img src="./hikio-collection/intha.jpg" width="200"/></a> 
+<a href="./hikio-collection/lake_tree_nautre.jpg"><img src="./hikio-collection/lake_tree_nautre.jpg" width="200"/></a> 
+<a href="./hikio-collection/mountain_lake_nature.jpg"><img src="./hikio-collection/mountain_lake_nature.jpg" width="200"/></a> 
+<a href="./hikio-collection/mountains_sky_clouds.jpg"><img src="./hikio-collection/mountains_sky_clouds.jpg" width="200"/></a> 
+<a href="./hikio-collection/mystic.jpg"><img src="./hikio-collection/mystic.jpg" width="200"/></a> 
+<a href="./hikio-collection/nature_lake_mountain.jpg"><img src="./hikio-collection/nature_lake_mountain.jpg" width="200"/></a> 
+<a href="./hikio-collection/power_lines_and_trees_at_sunset.jpg"><img src="./hikio-collection/power_lines_and_trees_at_sunset.jpg" width="200"/></a> 
+<a href="./hikio-collection/uwp4693819.jpeg"><img src="./hikio-collection/uwp4693819.jpeg" width="200"/></a> 
+<a href="./hikio-collection/uwp4835870.jpeg"><img src="./hikio-collection/uwp4835870.jpeg" width="200"/></a> 
+<a href="./hikio-collection/uwp4835871.jpeg"><img src="./hikio-collection/uwp4835871.jpeg" width="200"/></a> 
+<a href="./hikio-collection/vinland.png"><img src="./hikio-collection/vinland.png" width="200"/></a> 
+<a href="./hikio-collection/wallhaven-5gorx9.jpg"><img src="./hikio-collection/wallhaven-5gorx9.jpg" width="200"/></a> 
+<a href="./hikio-collection/waves_crashing_waves_on_rocks.jpg"><img src="./hikio-collection/waves_crashing_waves_on_rocks.jpg" width="200"/></a> 
+<a href="./hikio-collection/wp8438172-tokyo-4k-wallpapers.jpg"><img src="./hikio-collection/wp8438172-tokyo-4k-wallpapers.jpg" width="200"/></a> 
+<a href="./hikio-collection/yukino-4.jpg"><img src="./hikio-collection/yukino-4.jpg" width="200"/></a> 
+<a href="./hikio-collection/yukino-5.png"><img src="./hikio-collection/yukino-5.png" width="200"/></a> 
+<a href="./hikio-collection/yukino.jpg"><img src="./hikio-collection/yukino.jpg" width="200"/></a> 
+<a href="./hikio-collection/yukino.png"><img src="./hikio-collection/yukino.png" width="200"/></a> 
+
+---
+
+
+
+## 📁 tokyo-night
+
+<a href="./tokyo-night/1k7TDHrBa9djXZq.png"><img src="./tokyo-night/1k7TDHrBa9djXZq.png" width="200"/></a> 
+<a href="./tokyo-night/2.png"><img src="./tokyo-night/2.png" width="200"/></a> 
+<a href="./tokyo-night/2b12c6jatb3c1.jpg"><img src="./tokyo-night/2b12c6jatb3c1.jpg" width="200"/></a> 
+<a href="./tokyo-night/Electronic_Sample_96-calm-night.png"><img src="./tokyo-night/Electronic_Sample_96-calm-night.png" width="200"/></a> 
+<a href="./tokyo-night/H3cKqs6.jpg"><img src="./tokyo-night/H3cKqs6.jpg" width="200"/></a> 
+<a href="./tokyo-night/ZsLkm75Ua5yUwS1.jpg"><img src="./tokyo-night/ZsLkm75Ua5yUwS1.jpg" width="200"/></a> 
+<a href="./tokyo-night/aesthetic-hollow-knight-purple-desktop-wallpaper.jpg"><img src="./tokyo-night/aesthetic-hollow-knight-purple-desktop-wallpaper.jpg" width="200"/></a> 
+<a href="./tokyo-night/arch.png"><img src="./tokyo-night/arch.png" width="200"/></a> 
+<a href="./tokyo-night/archkali.png"><img src="./tokyo-night/archkali.png" width="200"/></a> 
+<a href="./tokyo-night/ciorano-the-sacred-creature.jpg"><img src="./tokyo-night/ciorano-the-sacred-creature.jpg" width="200"/></a> 
+<a href="./tokyo-night/daniel-ignacio-the-deer-spirit.jpg"><img src="./tokyo-night/daniel-ignacio-the-deer-spirit.jpg" width="200"/></a> 
+<a href="./tokyo-night/dreamy.jpeg"><img src="./tokyo-night/dreamy.jpeg" width="200"/></a> 
+<a href="./tokyo-night/dyy5x2fr9nvc1.jpeg"><img src="./tokyo-night/dyy5x2fr9nvc1.jpeg" width="200"/></a> 
+<a href="./tokyo-night/fog.jpg"><img src="./tokyo-night/fog.jpg" width="200"/></a> 
+<a href="./tokyo-night/gavrl-snowy-forest.jpg"><img src="./tokyo-night/gavrl-snowy-forest.jpg" width="200"/></a> 
+<a href="./tokyo-night/kuldarleement-stellar-collision.jpg"><img src="./tokyo-night/kuldarleement-stellar-collision.jpg" width="200"/></a> 
+<a href="./tokyo-night/mklgustafsson-among-trees-deer.jpg"><img src="./tokyo-night/mklgustafsson-among-trees-deer.jpg" width="200"/></a> 
+<a href="./tokyo-night/mountain.png"><img src="./tokyo-night/mountain.png" width="200"/></a> 
+<a href="./tokyo-night/ogarart-fortress.jpg"><img src="./tokyo-night/ogarart-fortress.jpg" width="200"/></a> 
+<a href="./tokyo-night/ogarart-wolf-and-blue-trees-2019-01-22.jpg"><img src="./tokyo-night/ogarart-wolf-and-blue-trees-2019-01-22.jpg" width="200"/></a> 
+<a href="./tokyo-night/olly-moss-firewatch-blue-forest.png"><img src="./tokyo-night/olly-moss-firewatch-blue-forest.png" width="200"/></a> 
+<a href="./tokyo-night/perfect-blue.png"><img src="./tokyo-night/perfect-blue.png" width="200"/></a> 
+<a href="./tokyo-night/perfect_blue_2.jpg"><img src="./tokyo-night/perfect_blue_2.jpg" width="200"/></a> 
+<a href="./tokyo-night/perfect_blue_final.jpg"><img src="./tokyo-night/perfect_blue_final.jpg" width="200"/></a> 
+<a href="./tokyo-night/redditislikefb-astral-summit.png"><img src="./tokyo-night/redditislikefb-astral-summit.png" width="200"/></a> 
+<a href="./tokyo-night/sea.jpg"><img src="./tokyo-night/sea.jpg" width="200"/></a> 
+<a href="./tokyo-night/tanvdesign-fantasy-landscape.png"><img src="./tokyo-night/tanvdesign-fantasy-landscape.png" width="200"/></a> 
+<a href="./tokyo-night/unknown-blue-moon-planets-over-lake-trees.jpg"><img src="./tokyo-night/unknown-blue-moon-planets-over-lake-trees.jpg" width="200"/></a> 
+<a href="./tokyo-night/unknown-downtown-minneapolis.jpg"><img src="./tokyo-night/unknown-downtown-minneapolis.jpg" width="200"/></a> 
+<a href="./tokyo-night/wallhaven-nejo6r.jpg"><img src="./tokyo-night/wallhaven-nejo6r.jpg" width="200"/></a> 
+<a href="./tokyo-night/your_name.jpg"><img src="./tokyo-night/your_name.jpg" width="200"/></a> 
+
+---
+
+## 📁 waifus
+
+<a href="./waifus/0HcdqrfTzo2IQH6.png"><img src="./waifus/0HcdqrfTzo2IQH6.png" width="200"/></a> 
+<a href="./waifus/0fUkRPL.jpg"><img src="./waifus/0fUkRPL.jpg" width="200"/></a> 
+<a href="./waifus/113842813_p0.png"><img src="./waifus/113842813_p0.png" width="200"/></a> 
+<a href="./waifus/115829752_p0.png"><img src="./waifus/115829752_p0.png" width="200"/></a> 
+<a href="./waifus/118910720_p0.png"><img src="./waifus/118910720_p0.png" width="200"/></a> 
+<a href="./waifus/120256374_p0.png"><img src="./waifus/120256374_p0.png" width="200"/></a> 
+<a href="./waifus/120752422_p0.jpg"><img src="./waifus/120752422_p0.jpg" width="200"/></a> 
+<a href="./waifus/121043535_p0.png"><img src="./waifus/121043535_p0.png" width="200"/></a> 
+<a href="./waifus/1k7TDHrBa9djXZq.png"><img src="./waifus/1k7TDHrBa9djXZq.png" width="200"/></a> 
+<a href="./waifus/276YnsvekUyA9gu.png"><img src="./waifus/276YnsvekUyA9gu.png" width="200"/></a> 
+<a href="./waifus/5IGFHxhCHfE2zRm.png"><img src="./waifus/5IGFHxhCHfE2zRm.png" width="200"/></a> 
+<a href="./waifus/6nmAV8K504n7FFp.jpg"><img src="./waifus/6nmAV8K504n7FFp.jpg" width="200"/></a> 
+<a href="./waifus/927nwGWwEK6W7yw.jpg"><img src="./waifus/927nwGWwEK6W7yw.jpg" width="200"/></a> 
+<a href="./waifus/98260510_p0.jpg"><img src="./waifus/98260510_p0.jpg" width="200"/></a> 
+<a href="./waifus/Alfi-Mashu.jpg"><img src="./waifus/Alfi-Mashu.jpg" width="200"/></a> 
+<a href="./waifus/AyuFk24KtFkRyVM.png"><img src="./waifus/AyuFk24KtFkRyVM.png" width="200"/></a> 
+<a href="./waifus/BemADdRArLGEsAE.jpg"><img src="./waifus/BemADdRArLGEsAE.jpg" width="200"/></a> 
+<a href="./waifus/CELESTIA-SCATHACH.png"><img src="./waifus/CELESTIA-SCATHACH.png" width="200"/></a> 
+<a href="./waifus/D39kquf1kZZFVxQ.jpg"><img src="./waifus/D39kquf1kZZFVxQ.jpg" width="200"/></a> 
+<a href="./waifus/GN7Yhb4Puu6q0Yw.png"><img src="./waifus/GN7Yhb4Puu6q0Yw.png" width="200"/></a> 
+<a href="./waifus/GQQx8Rm.png"><img src="./waifus/GQQx8Rm.png" width="200"/></a> 
+<a href="./waifus/H0crrI60uL1fKS2.png"><img src="./waifus/H0crrI60uL1fKS2.png" width="200"/></a> 
+<a href="./waifus/Helena_Blavatsky.png"><img src="./waifus/Helena_Blavatsky.png" width="200"/></a> 
+<a href="./waifus/HfTHAjN0wk4MkCQ.jpg"><img src="./waifus/HfTHAjN0wk4MkCQ.jpg" width="200"/></a> 
+<a href="./waifus/J3pYEfiqvJ61yNz.jpg"><img src="./waifus/J3pYEfiqvJ61yNz.jpg" width="200"/></a> 
+<a href="./waifus/KORIGENGI-Ryuzaky_Kurisu.png"><img src="./waifus/KORIGENGI-Ryuzaky_Kurisu.png" width="200"/></a> 
+<a href="./waifus/KORIGENGI-Xeis_Makise_Kurisu.png"><img src="./waifus/KORIGENGI-Xeis_Makise_Kurisu.png" width="200"/></a> 
+<a href="./waifus/MaN7bPq5z6pL3JR.jpg"><img src="./waifus/MaN7bPq5z6pL3JR.jpg" width="200"/></a> 
+<a href="./waifus/Mashu-PC.jpg"><img src="./waifus/Mashu-PC.jpg" width="200"/></a> 
+<a href="./waifus/Nero.png"><img src="./waifus/Nero.png" width="200"/></a> 
+<a href="./waifus/OZz6Z73i1JmqVFC.jpg"><img src="./waifus/OZz6Z73i1JmqVFC.jpg" width="200"/></a> 
+<a href="./waifus/Pv3fVY3.png"><img src="./waifus/Pv3fVY3.png" width="200"/></a> 
+<a href="./waifus/RLhnbWSekMOeU7q.png"><img src="./waifus/RLhnbWSekMOeU7q.png" width="200"/></a> 
+<a href="./waifus/S4g5NG9.png"><img src="./waifus/S4g5NG9.png" width="200"/></a> 
+<a href="./waifus/Sakura_Matou.png"><img src="./waifus/Sakura_Matou.png" width="200"/></a> 
+<a href="./waifus/VUe3JMog15fNZr6.png"><img src="./waifus/VUe3JMog15fNZr6.png" width="200"/></a> 
+<a href="./waifus/X82adrgF8faACoy.jpg"><img src="./waifus/X82adrgF8faACoy.jpg" width="200"/></a> 
+<a href="./waifus/XcMznV08O0VLYTl.png"><img src="./waifus/XcMznV08O0VLYTl.png" width="200"/></a> 
+<a href="./waifus/XmyAbWehD05uagR.jpg"><img src="./waifus/XmyAbWehD05uagR.jpg" width="200"/></a> 
+<a href="./waifus/ZQtHC817mOEO7sb.png"><img src="./waifus/ZQtHC817mOEO7sb.png" width="200"/></a> 
+<a href="./waifus/Zzv6MszbKcsKQNc.png"><img src="./waifus/Zzv6MszbKcsKQNc.png" width="200"/></a> 
+<a href="./waifus/aFdFgAE.jpg"><img src="./waifus/aFdFgAE.jpg" width="200"/></a> 
+<a href="./waifus/aSIxv3jCqUd8cmN.png"><img src="./waifus/aSIxv3jCqUd8cmN.png" width="200"/></a> 
+<a href="./waifus/aaaaa.png"><img src="./waifus/aaaaa.png" width="200"/></a> 
+<a href="./waifus/ai_hoshino_waifu.jpg"><img src="./waifus/ai_hoshino_waifu.jpg" width="200"/></a> 
+<a href="./waifus/albedo_waifu_2.jpg"><img src="./waifus/albedo_waifu_2.jpg" width="200"/></a> 
+<a href="./waifus/aldedo_waifu.jpg"><img src="./waifus/aldedo_waifu.jpg" width="200"/></a> 
+<a href="./waifus/amanesuzuha.jpg"><img src="./waifus/amanesuzuha.jpg" width="200"/></a> 
+<a href="./waifus/anime.png"><img src="./waifus/anime.png" width="200"/></a> 
+<a href="./waifus/b-012.jpg"><img src="./waifus/b-012.jpg" width="200"/></a> 
+<a href="./waifus/b-032.jpg"><img src="./waifus/b-032.jpg" width="200"/></a> 
+<a href="./waifus/bCZX0AHpNTIABsP.jpg"><img src="./waifus/bCZX0AHpNTIABsP.jpg" width="200"/></a> 
+<a href="./waifus/blur_red_waifu.jpg"><img src="./waifus/blur_red_waifu.jpg" width="200"/></a> 
+<a href="./waifus/buEge1h14kRpNli.jpg"><img src="./waifus/buEge1h14kRpNli.jpg" width="200"/></a> 
+<a href="./waifus/dddd.png"><img src="./waifus/dddd.png" width="200"/></a> 
+<a href="./waifus/demon_slayer_waifu.jpg"><img src="./waifus/demon_slayer_waifu.jpg" width="200"/></a> 
+<a href="./waifus/demon_slayer_waifu_2.jpg"><img src="./waifus/demon_slayer_waifu_2.jpg" width="200"/></a> 
+<a href="./waifus/esdeath.jpg"><img src="./waifus/esdeath.jpg" width="200"/></a> 
+<a href="./waifus/f73cf6e02d23bfa63164d2b9666aa25c.png"><img src="./waifus/f73cf6e02d23bfa63164d2b9666aa25c.png" width="200"/></a> 
+<a href="./waifus/genshin_waifu.jpg"><img src="./waifus/genshin_waifu.jpg" width="200"/></a> 
+<a href="./waifus/genshin_waifu_2.jpg"><img src="./waifus/genshin_waifu_2.jpg" width="200"/></a> 
+<a href="./waifus/genshin_waifu_3.jpg"><img src="./waifus/genshin_waifu_3.jpg" width="200"/></a> 
+<a href="./waifus/genshin_waifu_4.jpg"><img src="./waifus/genshin_waifu_4.jpg" width="200"/></a> 
+<a href="./waifus/hASFcJK.jpg"><img src="./waifus/hASFcJK.jpg" width="200"/></a> 
+<a href="./waifus/heisboy.jpg"><img src="./waifus/heisboy.jpg" width="200"/></a> 
+<a href="./waifus/hn0L6NY00oV0wcT.png"><img src="./waifus/hn0L6NY00oV0wcT.png" width="200"/></a> 
+<a href="./waifus/hutao_waifu.jpg"><img src="./waifus/hutao_waifu.jpg" width="200"/></a> 
+<a href="./waifus/hutao_waifu_2.jpg"><img src="./waifus/hutao_waifu_2.jpg" width="200"/></a> 
+<a href="./waifus/juqYN1iWyEviuD7.png"><img src="./waifus/juqYN1iWyEviuD7.png" width="200"/></a> 
+<a href="./waifus/k9GQQCR.png"><img src="./waifus/k9GQQCR.png" width="200"/></a> 
+<a href="./waifus/kurisu.jpg"><img src="./waifus/kurisu.jpg" width="200"/></a> 
+<a href="./waifus/luFU9YJZi7Wmi44.png"><img src="./waifus/luFU9YJZi7Wmi44.png" width="200"/></a> 
+<a href="./waifus/m56JqrU.png"><img src="./waifus/m56JqrU.png" width="200"/></a> 
+<a href="./waifus/m9sWWfH7hbg7U37.png"><img src="./waifus/m9sWWfH7hbg7U37.png" width="200"/></a> 
+<a href="./waifus/makima_waifu.jpg"><img src="./waifus/makima_waifu.jpg" width="200"/></a> 
+<a href="./waifus/makima_waifu2.jpeg"><img src="./waifus/makima_waifu2.jpeg" width="200"/></a> 
+<a href="./waifus/marin_kitagawa_waifu.jpg"><img src="./waifus/marin_kitagawa_waifu.jpg" width="200"/></a> 
+<a href="./waifus/miyzZwfRDON1PA6.jpg"><img src="./waifus/miyzZwfRDON1PA6.jpg" width="200"/></a> 
+<a href="./waifus/mpv-shot0002.jpg"><img src="./waifus/mpv-shot0002.jpg" width="200"/></a> 
+<a href="./waifus/mpv-shot0008.jpg"><img src="./waifus/mpv-shot0008.jpg" width="200"/></a> 
+<a href="./waifus/mpv-shot0009.jpg"><img src="./waifus/mpv-shot0009.jpg" width="200"/></a> 
+<a href="./waifus/mpv-shot0010.jpg"><img src="./waifus/mpv-shot0010.jpg" width="200"/></a> 
+<a href="./waifus/mpv-shot0013.jpg"><img src="./waifus/mpv-shot0013.jpg" width="200"/></a> 
+<a href="./waifus/nezuko_waifu.jpg"><img src="./waifus/nezuko_waifu.jpg" width="200"/></a> 
+<a href="./waifus/nier_automota_waifu.jpg"><img src="./waifus/nier_automota_waifu.jpg" width="200"/></a> 
+<a href="./waifus/purple_katana_waifu.jpg"><img src="./waifus/purple_katana_waifu.jpg" width="200"/></a> 
+<a href="./waifus/purple_waifu.jpg"><img src="./waifus/purple_waifu.jpg" width="200"/></a> 
+<a href="./waifus/raiden_waifu.jpg"><img src="./waifus/raiden_waifu.jpg" width="200"/></a> 
+<a href="./waifus/rand_cool_waifu.jpg"><img src="./waifus/rand_cool_waifu.jpg" width="200"/></a> 
+<a href="./waifus/rand_waifu.jpg"><img src="./waifus/rand_waifu.jpg" width="200"/></a> 
+<a href="./waifus/rand_waifu_2.jpg"><img src="./waifus/rand_waifu_2.jpg" width="200"/></a> 
+<a href="./waifus/rand_waifu_3.jpg"><img src="./waifus/rand_waifu_3.jpg" width="200"/></a> 
+<a href="./waifus/red_purple.jpg"><img src="./waifus/red_purple.jpg" width="200"/></a> 
+<a href="./waifus/rem_waifu.jpg"><img src="./waifus/rem_waifu.jpg" width="200"/></a> 
+<a href="./waifus/rezero.jpg"><img src="./waifus/rezero.jpg" width="200"/></a> 
+<a href="./waifus/school_katana_waifu.jpg"><img src="./waifus/school_katana_waifu.jpg" width="200"/></a> 
+<a href="./waifus/tifa_waifu.jpg"><img src="./waifus/tifa_waifu.jpg" width="200"/></a> 
+<a href="./waifus/uwp4423297.png"><img src="./waifus/uwp4423297.png" width="200"/></a> 
+<a href="./waifus/vermil_waifu.jpg"><img src="./waifus/vermil_waifu.jpg" width="200"/></a> 
+<a href="./waifus/violet_evergarden_waifu.jpg"><img src="./waifus/violet_evergarden_waifu.jpg" width="200"/></a> 
+<a href="./waifus/vjjF1RyVoXUjrHM.jpg"><img src="./waifus/vjjF1RyVoXUjrHM.jpg" width="200"/></a> 
+<a href="./waifus/w0Mc6z6.png"><img src="./waifus/w0Mc6z6.png" width="200"/></a> 
+<a href="./waifus/waifu_pink.png"><img src="./waifus/waifu_pink.png" width="200"/></a> 
+<a href="./waifus/wallhaven-5gorx9.jpg"><img src="./waifus/wallhaven-5gorx9.jpg" width="200"/></a> 
+<a href="./waifus/wallpaperflare.com_wallpaper.jpg"><img src="./waifus/wallpaperflare.com_wallpaper.jpg" width="200"/></a> 
+<a href="./waifus/wallpaperflare.com_wallpaper3.jpg"><img src="./waifus/wallpaperflare.com_wallpaper3.jpg" width="200"/></a> 
+<a href="./waifus/wallpaperflare.com_wallpaper4.jpg"><img src="./waifus/wallpaperflare.com_wallpaper4.jpg" width="200"/></a> 
+<a href="./waifus/yIIWj0ZNB0ejd4o.png"><img src="./waifus/yIIWj0ZNB0ejd4o.png" width="200"/></a> 
+<a href="./waifus/yor_waifu_7.jpg"><img src="./waifus/yor_waifu_7.jpg" width="200"/></a> 
+<a href="./waifus/yor_waifu_8.jpg"><img src="./waifus/yor_waifu_8.jpg" width="200"/></a> 
+<a href="./waifus/zEvjSukswk0x6dm.png"><img src="./waifus/zEvjSukswk0x6dm.png" width="200"/></a> 
+<a href="./waifus/zerotwo_waifu.jpg"><img src="./waifus/zerotwo_waifu.jpg" width="200"/></a> 
+<a href="./waifus/zerotwo_waifu_2.jpg"><img src="./waifus/zerotwo_waifu_2.jpg" width="200"/></a> 
+<a href="./waifus/zerotwo_waifu_3.jpg"><img src="./waifus/zerotwo_waifu_3.jpg" width="200"/></a> 
+<a href="./waifus/zerotwo_waifu_4.jpg"><img src="./waifus/zerotwo_waifu_4.jpg" width="200"/></a> 
+<a href="./waifus/zerotwo_waifu_5.jpg"><img src="./waifus/zerotwo_waifu_5.jpg" width="200"/></a> 
+
+---
+
+## 📁 anime
+
+<a href="./xyarjun-collection/anime/a_building_with_a_light_on_the_side.jpg"><img src="./xyarjun-collection/anime/a_building_with_a_light_on_the_side.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_cartoon_of_a_airship_flying_over_a_mountain.png"><img src="./xyarjun-collection/anime/a_cartoon_of_a_airship_flying_over_a_mountain.png" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_cartoon_of_a_flying_ship_with_buildings_and_a_person_walking.jpg"><img src="./xyarjun-collection/anime/a_cartoon_of_a_flying_ship_with_buildings_and_a_person_walking.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_cartoon_of_a_man_and_a_woman_in_a_room_with_chairs_and_a_table.jpeg"><img src="./xyarjun-collection/anime/a_cartoon_of_a_man_and_a_woman_in_a_room_with_chairs_and_a_table.jpeg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_cartoon_of_a_street_with_buildings.jpeg"><img src="./xyarjun-collection/anime/a_cartoon_of_a_street_with_buildings.jpeg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_cartoon_of_a_woman_in_a_dress.jpg"><img src="./xyarjun-collection/anime/a_cartoon_of_a_woman_in_a_dress.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_cartoon_of_a_woman_in_a_red_dress_with_a_large_weapon.jpg"><img src="./xyarjun-collection/anime/a_cartoon_of_a_woman_in_a_red_dress_with_a_large_weapon.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_cartoon_of_a_woman_lying_on_a_pile_of_books.png"><img src="./xyarjun-collection/anime/a_cartoon_of_a_woman_lying_on_a_pile_of_books.png" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_cartoon_of_a_woman_lying_on_her_back.jpg"><img src="./xyarjun-collection/anime/a_cartoon_of_a_woman_lying_on_her_back.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_cartoon_of_a_woman_sitting_at_a_table_on_a_deck.jpg"><img src="./xyarjun-collection/anime/a_cartoon_of_a_woman_sitting_at_a_table_on_a_deck.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_cartoon_of_a_woman_sitting_on_a_building_with_a_cat_on_a_leash.jpg"><img src="./xyarjun-collection/anime/a_cartoon_of_a_woman_sitting_on_a_building_with_a_cat_on_a_leash.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_cartoon_of_a_woman_with_long_hair.png"><img src="./xyarjun-collection/anime/a_cartoon_of_a_woman_with_long_hair.png" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_cartoon_of_a_woman_with_long_hair_01.png"><img src="./xyarjun-collection/anime/a_cartoon_of_a_woman_with_long_hair_01.png" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_cartoon_of_a_woman_with_pink_hair_and_many_cameras.jpg"><img src="./xyarjun-collection/anime/a_cartoon_of_a_woman_with_pink_hair_and_many_cameras.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_city_skyline_with_a_tall_tower_lit_up_at_night.jpeg"><img src="./xyarjun-collection/anime/a_city_skyline_with_a_tall_tower_lit_up_at_night.jpeg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_city_skyline_with_trees_and_clouds.jpg"><img src="./xyarjun-collection/anime/a_city_skyline_with_trees_and_clouds.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_couple_of_people_walking_on_a_road_with_power_lines_and_telephone_poles.jpg"><img src="./xyarjun-collection/anime/a_couple_of_people_walking_on_a_road_with_power_lines_and_telephone_poles.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_girl_sitting_at_desks_in_a_classroom_with_flowers_flying_out_of_her_head.jpg"><img src="./xyarjun-collection/anime/a_girl_sitting_at_desks_in_a_classroom_with_flowers_flying_out_of_her_head.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_group_of_rooftops_with_a_cross_on_top.png"><img src="./xyarjun-collection/anime/a_group_of_rooftops_with_a_cross_on_top.png" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_house_on_an_island_by_water.jpg"><img src="./xyarjun-collection/anime/a_house_on_an_island_by_water.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_house_with_a_bike_and_a_chair.jpg"><img src="./xyarjun-collection/anime/a_house_with_a_bike_and_a_chair.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_man_and_dog_riding_bikes_in_a_field_with_a_house_in_the_background.jpg"><img src="./xyarjun-collection/anime/a_man_and_dog_riding_bikes_in_a_field_with_a_house_in_the_background.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_man_riding_a_horse.jpg"><img src="./xyarjun-collection/anime/a_man_riding_a_horse.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png"><img src="./xyarjun-collection/anime/a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_person_riding_a_bicycle_on_a_hill_with_sunflowers.jpeg"><img src="./xyarjun-collection/anime/a_person_riding_a_bicycle_on_a_hill_with_sunflowers.jpeg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_scooter_parked_on_a_street.jpg"><img src="./xyarjun-collection/anime/a_scooter_parked_on_a_street.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_skeleton_in_the_sky.png"><img src="./xyarjun-collection/anime/a_skeleton_in_the_sky.png" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_tower_with_a_building_and_trees.jpg"><img src="./xyarjun-collection/anime/a_tower_with_a_building_and_trees.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_tree_in_a_forest.png"><img src="./xyarjun-collection/anime/a_tree_in_a_forest.png" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_view_of_a_city_from_a_balcony.jpeg"><img src="./xyarjun-collection/anime/a_view_of_a_city_from_a_balcony.jpeg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_woman_holding_an_umbrella_and_standing_on_a_sidewalk.png"><img src="./xyarjun-collection/anime/a_woman_holding_an_umbrella_and_standing_on_a_sidewalk.png" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_woman_in_a_red_dress_sitting_in_front_of_a_gas_station.jpg"><img src="./xyarjun-collection/anime/a_woman_in_a_red_dress_sitting_in_front_of_a_gas_station.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_woman_sitting_in_a_chair_under_a_tent.png"><img src="./xyarjun-collection/anime/a_woman_sitting_in_a_chair_under_a_tent.png" width="200"/></a> 
+<a href="./xyarjun-collection/anime/a_woman_standing_on_a_road_with_sunflowers.png"><img src="./xyarjun-collection/anime/a_woman_standing_on_a_road_with_sunflowers.png" width="200"/></a> 
+<a href="./xyarjun-collection/anime/cartoon_characters_in_a_blue_background.png"><img src="./xyarjun-collection/anime/cartoon_characters_in_a_blue_background.png" width="200"/></a> 
+<a href="./xyarjun-collection/anime/cartoon_of_a_girl_in_a_bus.jpg"><img src="./xyarjun-collection/anime/cartoon_of_a_girl_in_a_bus.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/anime/power_lines_and_trees_at_sunset.jpg"><img src="./xyarjun-collection/anime/power_lines_and_trees_at_sunset.jpg" width="200"/></a> 
+
+---
+
+## 📁 gruvbox
+
+<a href="./xyarjun-collection/gruvbox/27r8pdbrev0a1.png"><img src="./xyarjun-collection/gruvbox/27r8pdbrev0a1.png" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_black_and_red_animal_head_with_horns.jpg"><img src="./xyarjun-collection/gruvbox/a_black_and_red_animal_head_with_horns.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_body_of_water_with_buildings_in_the_background.jpg"><img src="./xyarjun-collection/gruvbox/a_body_of_water_with_buildings_in_the_background.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_bookshelf_with_lights_from_the_ceiling.jpeg"><img src="./xyarjun-collection/gruvbox/a_bookshelf_with_lights_from_the_ceiling.jpeg" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_cartoon_of_a_man_standing_in_space.png"><img src="./xyarjun-collection/gruvbox/a_cartoon_of_a_man_standing_in_space.png" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_cartoon_of_a_wolf_and_a_knight_sitting_on_a_dog.png"><img src="./xyarjun-collection/gruvbox/a_cartoon_of_a_wolf_and_a_knight_sitting_on_a_dog.png" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_city_skyline_at_night.jpg"><img src="./xyarjun-collection/gruvbox/a_city_skyline_at_night.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_close_up_of_a_circuit_board.png"><img src="./xyarjun-collection/gruvbox/a_close_up_of_a_circuit_board.png" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_dark_alleyway_with_a_brick_building_and_a_window.jpg"><img src="./xyarjun-collection/gruvbox/a_dark_alleyway_with_a_brick_building_and_a_window.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_fish_swimming_in_water.png"><img src="./xyarjun-collection/gruvbox/a_fish_swimming_in_water.png" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_flower_in_a_window.jpg"><img src="./xyarjun-collection/gruvbox/a_flower_in_a_window.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_landscape_with_mountains_and_trees.jpg"><img src="./xyarjun-collection/gruvbox/a_landscape_with_mountains_and_trees.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_mountain_range_with_snow.png"><img src="./xyarjun-collection/gruvbox/a_mountain_range_with_snow.png" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_person_in_a_hat_standing_in_a_room_with_windows.png"><img src="./xyarjun-collection/gruvbox/a_person_in_a_hat_standing_in_a_room_with_windows.png" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_person_walking_in_a_tunnel.png"><img src="./xyarjun-collection/gruvbox/a_person_walking_in_a_tunnel.png" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_rocky_beach_with_waves_crashing_on_the_shore.png"><img src="./xyarjun-collection/gruvbox/a_rocky_beach_with_waves_crashing_on_the_shore.png" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_spiral_staircase_with_a_black_railing.jpg"><img src="./xyarjun-collection/gruvbox/a_spiral_staircase_with_a_black_railing.jpg" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_street_with_buildings_and_a_street_lamp.png"><img src="./xyarjun-collection/gruvbox/a_street_with_buildings_and_a_street_lamp.png" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/a_street_with_buildings_and_trees.png"><img src="./xyarjun-collection/gruvbox/a_street_with_buildings_and_trees.png" width="200"/></a> 
+<a href="./xyarjun-collection/gruvbox/wp9992529-simon-stalenhag-wallpapers.jpg"><img src="./xyarjun-collection/gruvbox/wp9992529-simon-stalenhag-wallpapers.jpg" width="200"/></a> 
+
+---
