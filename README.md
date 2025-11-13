@@ -4,10 +4,6 @@ A curated collection of wallpapers organized by categories.
 Click any thumbnail below to view the full-resolution image!
 
 ---
-# CREDITS
-
-All the credits of all the walls goes to the respected creators.
----
 
 
 ## 📁 Catppuccin-Latte
@@ -85,41 +81,6 @@ All the credits of all the walls goes to the respected creators.
 <a href="./Catppuccin-Mocha/woman.png"><img src="./Catppuccin-Mocha/woman.png" width="200"/></a> 
 <a href="./Catppuccin-Mocha/zzz.jpg"><img src="./Catppuccin-Mocha/zzz.jpg" width="200"/></a> 
 
----
-
-## 📁 Oregairu
-
-<a href="./Oregairu/1059163.png"><img src="./Oregairu/1059163.png" width="200"/></a> 
-<a href="./Oregairu/1097670.jpg"><img src="./Oregairu/1097670.jpg" width="200"/></a> 
-<a href="./Oregairu/1230284.jpg"><img src="./Oregairu/1230284.jpg" width="200"/></a> 
-<a href="./Oregairu/770797.jpg"><img src="./Oregairu/770797.jpg" width="200"/></a> 
-<a href="./Oregairu/770807.jpg"><img src="./Oregairu/770807.jpg" width="200"/></a> 
-<a href="./Oregairu/770816.jpg"><img src="./Oregairu/770816.jpg" width="200"/></a> 
-<a href="./Oregairu/828541.jpg"><img src="./Oregairu/828541.jpg" width="200"/></a> 
-<a href="./Oregairu/898760.png"><img src="./Oregairu/898760.png" width="200"/></a> 
-<a href="./Oregairu/hikiyuki.png"><img src="./Oregairu/hikiyuki.png" width="200"/></a> 
-<a href="./Oregairu/hiratsuka.png"><img src="./Oregairu/hiratsuka.png" width="200"/></a> 
-<a href="./Oregairu/meow.png"><img src="./Oregairu/meow.png" width="200"/></a> 
-<a href="./Oregairu/wallhaven-4lrj7p.png"><img src="./Oregairu/wallhaven-4lrj7p.png" width="200"/></a> 
-<a href="./Oregairu/wallpaperflare.com_wallpaper (1).jpg"><img src="./Oregairu/wallpaperflare.com_wallpaper (1).jpg" width="200"/></a> 
-<a href="./Oregairu/wallpaperflare.com_wallpaper (2).jpg"><img src="./Oregairu/wallpaperflare.com_wallpaper (2).jpg" width="200"/></a> 
-<a href="./Oregairu/wallpaperflare.com_wallpaper (3).jpg"><img src="./Oregairu/wallpaperflare.com_wallpaper (3).jpg" width="200"/></a> 
-<a href="./Oregairu/wallpaperflare.com_wallpaper.jpg"><img src="./Oregairu/wallpaperflare.com_wallpaper.jpg" width="200"/></a> 
-<a href="./Oregairu/wp2137428-oregairu-wallpapers.png"><img src="./Oregairu/wp2137428-oregairu-wallpapers.png" width="200"/></a> 
-<a href="./Oregairu/wp2137444-oregairu-wallpapers.png"><img src="./Oregairu/wp2137444-oregairu-wallpapers.png" width="200"/></a> 
-<a href="./Oregairu/wp2137481-oregairu-wallpapers.png"><img src="./Oregairu/wp2137481-oregairu-wallpapers.png" width="200"/></a> 
-<a href="./Oregairu/wp2137504-oregairu-wallpapers.png"><img src="./Oregairu/wp2137504-oregairu-wallpapers.png" width="200"/></a> 
-<a href="./Oregairu/yui-1.jpg"><img src="./Oregairu/yui-1.jpg" width="200"/></a> 
-<a href="./Oregairu/yui.jpg"><img src="./Oregairu/yui.jpg" width="200"/></a> 
-<a href="./Oregairu/yuki-yui-1.jpg"><img src="./Oregairu/yuki-yui-1.jpg" width="200"/></a> 
-<a href="./Oregairu/yuki-yui-feet.jpg"><img src="./Oregairu/yuki-yui-feet.jpg" width="200"/></a> 
-<a href="./Oregairu/yuki-yui.jpg"><img src="./Oregairu/yuki-yui.jpg" width="200"/></a> 
-<a href="./Oregairu/yukino-1.jpg"><img src="./Oregairu/yukino-1.jpg" width="200"/></a> 
-<a href="./Oregairu/yukino-2.jpg"><img src="./Oregairu/yukino-2.jpg" width="200"/></a> 
-<a href="./Oregairu/yukino-3.png"><img src="./Oregairu/yukino-3.png" width="200"/></a> 
-<a href="./Oregairu/yukino-4.jpg"><img src="./Oregairu/yukino-4.jpg" width="200"/></a> 
-<a href="./Oregairu/yukino-5.png"><img src="./Oregairu/yukino-5.png" width="200"/></a> 
-<a href="./Oregairu/yukino.jpg"><img src="./Oregairu/yukino.jpg" width="200"/></a> 
 
 ---
 
@@ -228,6 +189,78 @@ All the credits of all the walls goes to the respected creators.
 
 ---
 
+## 📁 brutalism-architecture
+
+<a href="./brutalism-architecture/affan-fadhlan-pgadY4OLYwY-unsplash.jpg"><img src="./brutalism-architecture/affan-fadhlan-pgadY4OLYwY-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/alexandre-martins-8SHLemRzv2g-unsplash.jpg"><img src="./brutalism-architecture/alexandre-martins-8SHLemRzv2g-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/ana-fragoso-5XfLRS5EZ8A-unsplash.jpg"><img src="./brutalism-architecture/ana-fragoso-5XfLRS5EZ8A-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/aram-ramazyan-1asaV4veFBQ-unsplash.jpg"><img src="./brutalism-architecture/aram-ramazyan-1asaV4veFBQ-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/aram-ramazyan-5F7wi-FBVCw-unsplash.jpg"><img src="./brutalism-architecture/aram-ramazyan-5F7wi-FBVCw-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/aram-ramazyan-MZ4OrjWZeYE-unsplash.jpg"><img src="./brutalism-architecture/aram-ramazyan-MZ4OrjWZeYE-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/aram-ramazyan-gkJleVs0o5w-unsplash.jpg"><img src="./brutalism-architecture/aram-ramazyan-gkJleVs0o5w-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/arturo-castaneyra-o-dkYSvidB4-unsplash.jpg"><img src="./brutalism-architecture/arturo-castaneyra-o-dkYSvidB4-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/astronaud23-OnoRhQJfPRo-unsplash.jpg"><img src="./brutalism-architecture/astronaud23-OnoRhQJfPRo-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/ben-allan-bHsLYa7nno4-unsplash.jpg"><img src="./brutalism-architecture/ben-allan-bHsLYa7nno4-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/berenice-melis-LNOQgx1POo8-unsplash.jpg"><img src="./brutalism-architecture/berenice-melis-LNOQgx1POo8-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/berenice-melis-Un2hYOi1np0-unsplash.jpg"><img src="./brutalism-architecture/berenice-melis-Un2hYOi1np0-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/brunno-tozzo-yj7PiUF2_7c-unsplash.jpg"><img src="./brutalism-architecture/brunno-tozzo-yj7PiUF2_7c-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/carl-nenzen-loven-busqfOj6i80-unsplash.jpg"><img src="./brutalism-architecture/carl-nenzen-loven-busqfOj6i80-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/chris-johnson-t6fOnFP65CE-unsplash.jpg"><img src="./brutalism-architecture/chris-johnson-t6fOnFP65CE-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/christophe-laurenceau-MPWbGMrZ6eo-unsplash.jpg"><img src="./brutalism-architecture/christophe-laurenceau-MPWbGMrZ6eo-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/egor-khomiakov-J2FxiOX0QaA-unsplash.jpg"><img src="./brutalism-architecture/egor-khomiakov-J2FxiOX0QaA-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/egor-komarov-mZaGYxZUp3w-unsplash.jpg"><img src="./brutalism-architecture/egor-komarov-mZaGYxZUp3w-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/fausto-ribeiro-xY3uVl5FiqE-unsplash.jpg"><img src="./brutalism-architecture/fausto-ribeiro-xY3uVl5FiqE-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/fedor-shlyapnikov-4BLmfd8VUzU-unsplash.jpg"><img src="./brutalism-architecture/fedor-shlyapnikov-4BLmfd8VUzU-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/filip-andrejevic-TKnJWO4qRCU-unsplash.jpg"><img src="./brutalism-architecture/filip-andrejevic-TKnJWO4qRCU-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/goran-petkovic-0WC7JLhJ9Qg-unsplash.jpg"><img src="./brutalism-architecture/goran-petkovic-0WC7JLhJ9Qg-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/jack-white-1yxehWp-88s-unsplash.jpg"><img src="./brutalism-architecture/jack-white-1yxehWp-88s-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/joss-broward-2eLq3SxhvSA-unsplash.jpg"><img src="./brutalism-architecture/joss-broward-2eLq3SxhvSA-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/kiet-ho-5Yuut935G4k-unsplash.jpg"><img src="./brutalism-architecture/kiet-ho-5Yuut935G4k-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/kiryl-S6FCH5FqBfE-unsplash.jpg"><img src="./brutalism-architecture/kiryl-S6FCH5FqBfE-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/klaudia-piaskowska-ZBm3-6vzxG8-unsplash.jpg"><img src="./brutalism-architecture/klaudia-piaskowska-ZBm3-6vzxG8-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/korhan-eser-AKSWyihJhFk-unsplash.jpg"><img src="./brutalism-architecture/korhan-eser-AKSWyihJhFk-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/kotryna-juskaite-IZma1klz6Hc-unsplash.jpg"><img src="./brutalism-architecture/kotryna-juskaite-IZma1klz6Hc-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/kristin-snippe-NKTmLcWtop8-unsplash.jpg"><img src="./brutalism-architecture/kristin-snippe-NKTmLcWtop8-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/laurent-etourneau-UtCofPf7tf4-unsplash.jpg"><img src="./brutalism-architecture/laurent-etourneau-UtCofPf7tf4-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/luca-3ip4qCDYkYU-unsplash.jpg"><img src="./brutalism-architecture/luca-3ip4qCDYkYU-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/luca-eM2_br4tM1c-unsplash.jpg"><img src="./brutalism-architecture/luca-eM2_br4tM1c-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/luca-rEpXG5PS2j0-unsplash.jpg"><img src="./brutalism-architecture/luca-rEpXG5PS2j0-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/luca-t4KxQmpDok4-unsplash.jpg"><img src="./brutalism-architecture/luca-t4KxQmpDok4-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/lukas-martello-1iNaIRvWkFw-unsplash.jpg"><img src="./brutalism-architecture/lukas-martello-1iNaIRvWkFw-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/mark-mclaughlin-8_UDWAPHISM-unsplash.jpg"><img src="./brutalism-architecture/mark-mclaughlin-8_UDWAPHISM-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/max-letek-sfUTIAjKDb0-unsplash.jpg"><img src="./brutalism-architecture/max-letek-sfUTIAjKDb0-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/michael-YiqCa_XEVU0-unsplash.jpg"><img src="./brutalism-architecture/michael-YiqCa_XEVU0-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/michael-mwWX4R3P2VQ-unsplash.jpg"><img src="./brutalism-architecture/michael-mwWX4R3P2VQ-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/mike-hindle-kw_6koaT6F8-unsplash.jpg"><img src="./brutalism-architecture/mike-hindle-kw_6koaT6F8-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/mike-hindle-ld1j_6Y8ILw-unsplash.jpg"><img src="./brutalism-architecture/mike-hindle-ld1j_6Y8ILw-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/mike-hindle-otqhWc2DWjY-unsplash.jpg"><img src="./brutalism-architecture/mike-hindle-otqhWc2DWjY-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/mikulas-prokop-CMHPps9CLzc-unsplash.jpg"><img src="./brutalism-architecture/mikulas-prokop-CMHPps9CLzc-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/nenad-radojcic--43ba-XmA1Y-unsplash.jpg"><img src="./brutalism-architecture/nenad-radojcic--43ba-XmA1Y-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/niamat-ullah-TyKU12wV3Z0-unsplash.jpg"><img src="./brutalism-architecture/niamat-ullah-TyKU12wV3Z0-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/pat-krupa-j0f_ZFkj9I0-unsplash.jpg"><img src="./brutalism-architecture/pat-krupa-j0f_ZFkj9I0-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/pat-krupa-oM9L2V90-i4-unsplash.jpg"><img src="./brutalism-architecture/pat-krupa-oM9L2V90-i4-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/pierre-chatel-innocenti-2MoEcGNUj-I-unsplash.jpg"><img src="./brutalism-architecture/pierre-chatel-innocenti-2MoEcGNUj-I-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/ronan-dorard-MtuFzGrhaNA-unsplash.jpg"><img src="./brutalism-architecture/ronan-dorard-MtuFzGrhaNA-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/rowan-heuvel-JBtW6Fx_9B4-unsplash.jpg"><img src="./brutalism-architecture/rowan-heuvel-JBtW6Fx_9B4-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/rowan-heuvel-JlvZDcyxxlA-unsplash.jpg"><img src="./brutalism-architecture/rowan-heuvel-JlvZDcyxxlA-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/rowan-heuvel-ZWu7kCw0__o-unsplash.jpg"><img src="./brutalism-architecture/rowan-heuvel-ZWu7kCw0__o-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/sean-mungur-QAOnHoisfyw-unsplash.jpg"><img src="./brutalism-architecture/sean-mungur-QAOnHoisfyw-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/sebastian-lubjahn-sQISoCX6CTE-unsplash.jpg"><img src="./brutalism-architecture/sebastian-lubjahn-sQISoCX6CTE-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/simone-hutsch-XK0faa4_mCQ-unsplash.jpg"><img src="./brutalism-architecture/simone-hutsch-XK0faa4_mCQ-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/simone-hutsch-xOLhD-qfoRI-unsplash.jpg"><img src="./brutalism-architecture/simone-hutsch-xOLhD-qfoRI-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/stevo-XmmGyUPnqUE-unsplash.jpg"><img src="./brutalism-architecture/stevo-XmmGyUPnqUE-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/tomas-hruby-4yT31ai00TQ-unsplash.jpg"><img src="./brutalism-architecture/tomas-hruby-4yT31ai00TQ-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/tommy-cornilleau-K9QAmMdlpoY-unsplash.jpg"><img src="./brutalism-architecture/tommy-cornilleau-K9QAmMdlpoY-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/tommy-cornilleau-kCLHtEg7CaU-unsplash.jpg"><img src="./brutalism-architecture/tommy-cornilleau-kCLHtEg7CaU-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/upadek-matmy-lu5iUuxNOKk-unsplash.jpg"><img src="./brutalism-architecture/upadek-matmy-lu5iUuxNOKk-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/viktor-forgacs-nOzPuVo668M-unsplash.jpg"><img src="./brutalism-architecture/viktor-forgacs-nOzPuVo668M-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/will-corrigan-cr_TAYH2eQU-unsplash.jpg"><img src="./brutalism-architecture/will-corrigan-cr_TAYH2eQU-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/william-priess-1jyHQxBAE7A-unsplash.jpg"><img src="./brutalism-architecture/william-priess-1jyHQxBAE7A-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/yakov-leonov-NJNpUKiZF7s-unsplash.jpg"><img src="./brutalism-architecture/yakov-leonov-NJNpUKiZF7s-unsplash.jpg" width="200"/></a> 
+<a href="./brutalism-architecture/zachary-mcsween-manickchand-I-tis7ZFIVI-unsplash.jpg"><img src="./brutalism-architecture/zachary-mcsween-manickchand-I-tis7ZFIVI-unsplash.jpg" width="200"/></a> 
+
+---
+
 ## 📁 hikio-collection
 
 <a href="./hikio-collection/120256374_p0.png"><img src="./hikio-collection/120256374_p0.png" width="200"/></a> 
@@ -275,9 +308,8 @@ All the credits of all the walls goes to the respected creators.
 <a href="./hikio-collection/yukino.jpg"><img src="./hikio-collection/yukino.jpg" width="200"/></a> 
 <a href="./hikio-collection/yukino.png"><img src="./hikio-collection/yukino.png" width="200"/></a> 
 
+
 ---
-
-
 
 ## 📁 tokyo-night
 
@@ -434,7 +466,9 @@ All the credits of all the walls goes to the respected creators.
 <a href="./waifus/zerotwo_waifu_4.jpg"><img src="./waifus/zerotwo_waifu_4.jpg" width="200"/></a> 
 <a href="./waifus/zerotwo_waifu_5.jpg"><img src="./waifus/zerotwo_waifu_5.jpg" width="200"/></a> 
 
+
 ---
+
 
 ## 📁 anime
 
@@ -501,5 +535,8 @@ All the credits of all the walls goes to the respected creators.
 <a href="./xyarjun-collection/gruvbox/a_street_with_buildings_and_trees.png"><img src="./xyarjun-collection/gruvbox/a_street_with_buildings_and_trees.png" width="200"/></a> 
 <a href="./xyarjun-collection/gruvbox/wp9992529-simon-stalenhag-wallpapers.jpg"><img src="./xyarjun-collection/gruvbox/wp9992529-simon-stalenhag-wallpapers.jpg" width="200"/></a> 
 
+
 ---
+
 # AND MANY MORE WALLS
+---
