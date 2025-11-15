@@ -82,6 +82,7 @@ Click any thumbnail below to view the full-resolution image!
 <a href="./Catppuccin-Mocha/zzz.jpg"><img src="./Catppuccin-Mocha/zzz.jpg" width="200"/></a> 
 
 
+
 ---
 
 ## 📁 Rose-pine
@@ -191,6 +192,7 @@ Click any thumbnail below to view the full-resolution image!
 
 ## 📁 brutalism-architecture
 
+<a href="./brutalism-architecture/008.png"><img src="./brutalism-architecture/008.png" width="200"/></a> 
 <a href="./brutalism-architecture/affan-fadhlan-pgadY4OLYwY-unsplash.jpg"><img src="./brutalism-architecture/affan-fadhlan-pgadY4OLYwY-unsplash.jpg" width="200"/></a> 
 <a href="./brutalism-architecture/alexandre-martins-8SHLemRzv2g-unsplash.jpg"><img src="./brutalism-architecture/alexandre-martins-8SHLemRzv2g-unsplash.jpg" width="200"/></a> 
 <a href="./brutalism-architecture/ana-fragoso-5XfLRS5EZ8A-unsplash.jpg"><img src="./brutalism-architecture/ana-fragoso-5XfLRS5EZ8A-unsplash.jpg" width="200"/></a> 
@@ -263,6 +265,7 @@ Click any thumbnail below to view the full-resolution image!
 
 ## 📁 hikio-collection
 
+<a href="./hikio-collection/005.png"><img src="./hikio-collection/005.png" width="200"/></a> 
 <a href="./hikio-collection/120256374_p0.png"><img src="./hikio-collection/120256374_p0.png" width="200"/></a> 
 <a href="./hikio-collection/1377793.png"><img src="./hikio-collection/1377793.png" width="200"/></a> 
 <a href="./hikio-collection/2b.jpg"><img src="./hikio-collection/2b.jpg" width="200"/></a> 
@@ -286,16 +289,22 @@ Click any thumbnail below to view the full-resolution image!
 <a href="./hikio-collection/blue_moon_and_lake.jpg"><img src="./hikio-collection/blue_moon_and_lake.jpg" width="200"/></a> 
 <a href="./hikio-collection/cawr.jpg"><img src="./hikio-collection/cawr.jpg" width="200"/></a> 
 <a href="./hikio-collection/city.jpg"><img src="./hikio-collection/city.jpg" width="200"/></a> 
+<a href="./hikio-collection/colloseum.jpg"><img src="./hikio-collection/colloseum.jpg" width="200"/></a> 
 <a href="./hikio-collection/dreamy.jpeg"><img src="./hikio-collection/dreamy.jpeg" width="200"/></a> 
 <a href="./hikio-collection/earathlysteller.jpg"><img src="./hikio-collection/earathlysteller.jpg" width="200"/></a> 
 <a href="./hikio-collection/greenery_mountain.jpg"><img src="./hikio-collection/greenery_mountain.jpg" width="200"/></a> 
 <a href="./hikio-collection/intha.jpg"><img src="./hikio-collection/intha.jpg" width="200"/></a> 
 <a href="./hikio-collection/lake_tree_nautre.jpg"><img src="./hikio-collection/lake_tree_nautre.jpg" width="200"/></a> 
+<a href="./hikio-collection/law-statue.jpg"><img src="./hikio-collection/law-statue.jpg" width="200"/></a> 
 <a href="./hikio-collection/mountain_lake_nature.jpg"><img src="./hikio-collection/mountain_lake_nature.jpg" width="200"/></a> 
 <a href="./hikio-collection/mountains_sky_clouds.jpg"><img src="./hikio-collection/mountains_sky_clouds.jpg" width="200"/></a> 
 <a href="./hikio-collection/mystic.jpg"><img src="./hikio-collection/mystic.jpg" width="200"/></a> 
 <a href="./hikio-collection/nature_lake_mountain.jpg"><img src="./hikio-collection/nature_lake_mountain.jpg" width="200"/></a> 
 <a href="./hikio-collection/power_lines_and_trees_at_sunset.jpg"><img src="./hikio-collection/power_lines_and_trees_at_sunset.jpg" width="200"/></a> 
+<a href="./hikio-collection/road-mountain.jpg"><img src="./hikio-collection/road-mountain.jpg" width="200"/></a> 
+<a href="./hikio-collection/soviet-statue-2.jpg"><img src="./hikio-collection/soviet-statue-2.jpg" width="200"/></a> 
+<a href="./hikio-collection/soviet-statue-3.jpg"><img src="./hikio-collection/soviet-statue-3.jpg" width="200"/></a> 
+<a href="./hikio-collection/soviet-statue.jpg"><img src="./hikio-collection/soviet-statue.jpg" width="200"/></a> 
 <a href="./hikio-collection/uwp4693819.jpeg"><img src="./hikio-collection/uwp4693819.jpeg" width="200"/></a> 
 <a href="./hikio-collection/uwp4835870.jpeg"><img src="./hikio-collection/uwp4835870.jpeg" width="200"/></a> 
 <a href="./hikio-collection/uwp4835871.jpeg"><img src="./hikio-collection/uwp4835871.jpeg" width="200"/></a> 
@@ -466,9 +475,7 @@ Click any thumbnail below to view the full-resolution image!
 <a href="./waifus/zerotwo_waifu_4.jpg"><img src="./waifus/zerotwo_waifu_4.jpg" width="200"/></a> 
 <a href="./waifus/zerotwo_waifu_5.jpg"><img src="./waifus/zerotwo_waifu_5.jpg" width="200"/></a> 
 
-
 ---
-
 
 ## 📁 anime
 
@@ -511,32 +518,5 @@ Click any thumbnail below to view the full-resolution image!
 <a href="./xyarjun-collection/anime/power_lines_and_trees_at_sunset.jpg"><img src="./xyarjun-collection/anime/power_lines_and_trees_at_sunset.jpg" width="200"/></a> 
 
 ---
-
-## 📁 gruvbox
-
-<a href="./xyarjun-collection/gruvbox/27r8pdbrev0a1.png"><img src="./xyarjun-collection/gruvbox/27r8pdbrev0a1.png" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_black_and_red_animal_head_with_horns.jpg"><img src="./xyarjun-collection/gruvbox/a_black_and_red_animal_head_with_horns.jpg" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_body_of_water_with_buildings_in_the_background.jpg"><img src="./xyarjun-collection/gruvbox/a_body_of_water_with_buildings_in_the_background.jpg" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_bookshelf_with_lights_from_the_ceiling.jpeg"><img src="./xyarjun-collection/gruvbox/a_bookshelf_with_lights_from_the_ceiling.jpeg" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_cartoon_of_a_man_standing_in_space.png"><img src="./xyarjun-collection/gruvbox/a_cartoon_of_a_man_standing_in_space.png" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_cartoon_of_a_wolf_and_a_knight_sitting_on_a_dog.png"><img src="./xyarjun-collection/gruvbox/a_cartoon_of_a_wolf_and_a_knight_sitting_on_a_dog.png" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_city_skyline_at_night.jpg"><img src="./xyarjun-collection/gruvbox/a_city_skyline_at_night.jpg" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_close_up_of_a_circuit_board.png"><img src="./xyarjun-collection/gruvbox/a_close_up_of_a_circuit_board.png" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_dark_alleyway_with_a_brick_building_and_a_window.jpg"><img src="./xyarjun-collection/gruvbox/a_dark_alleyway_with_a_brick_building_and_a_window.jpg" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_fish_swimming_in_water.png"><img src="./xyarjun-collection/gruvbox/a_fish_swimming_in_water.png" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_flower_in_a_window.jpg"><img src="./xyarjun-collection/gruvbox/a_flower_in_a_window.jpg" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_landscape_with_mountains_and_trees.jpg"><img src="./xyarjun-collection/gruvbox/a_landscape_with_mountains_and_trees.jpg" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_mountain_range_with_snow.png"><img src="./xyarjun-collection/gruvbox/a_mountain_range_with_snow.png" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_person_in_a_hat_standing_in_a_room_with_windows.png"><img src="./xyarjun-collection/gruvbox/a_person_in_a_hat_standing_in_a_room_with_windows.png" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_person_walking_in_a_tunnel.png"><img src="./xyarjun-collection/gruvbox/a_person_walking_in_a_tunnel.png" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_rocky_beach_with_waves_crashing_on_the_shore.png"><img src="./xyarjun-collection/gruvbox/a_rocky_beach_with_waves_crashing_on_the_shore.png" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_spiral_staircase_with_a_black_railing.jpg"><img src="./xyarjun-collection/gruvbox/a_spiral_staircase_with_a_black_railing.jpg" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_street_with_buildings_and_a_street_lamp.png"><img src="./xyarjun-collection/gruvbox/a_street_with_buildings_and_a_street_lamp.png" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/a_street_with_buildings_and_trees.png"><img src="./xyarjun-collection/gruvbox/a_street_with_buildings_and_trees.png" width="200"/></a> 
-<a href="./xyarjun-collection/gruvbox/wp9992529-simon-stalenhag-wallpapers.jpg"><img src="./xyarjun-collection/gruvbox/wp9992529-simon-stalenhag-wallpapers.jpg" width="200"/></a> 
-
-
----
-
-# AND MANY MORE WALLS
+# AND MANY MORE WALLS INSIDE DIRECTORY
 ---
