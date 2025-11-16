@@ -4,6 +4,8 @@ A curated collection of wallpapers organized by categories.
 Click any thumbnail below to view the full-resolution image!
 
 ---
+# ALL THE CREDITS OF WALLPAPERS GOES TO RESPECTED CREATORS
+---
 
 
 ## 📁 Catppuccin-Latte
@@ -80,57 +82,6 @@ Click any thumbnail below to view the full-resolution image!
 <a href="./Catppuccin-Mocha/windows-error.jpg"><img src="./Catppuccin-Mocha/windows-error.jpg" width="200"/></a> 
 <a href="./Catppuccin-Mocha/woman.png"><img src="./Catppuccin-Mocha/woman.png" width="200"/></a> 
 <a href="./Catppuccin-Mocha/zzz.jpg"><img src="./Catppuccin-Mocha/zzz.jpg" width="200"/></a> 
-
-
-
----
-
-## 📁 Rose-pine
-
-<a href="./Rose-pine/107.jpg"><img src="./Rose-pine/107.jpg" width="200"/></a> 
-<a href="./Rose-pine/1338168.png"><img src="./Rose-pine/1338168.png" width="200"/></a> 
-<a href="./Rose-pine/2jzlLHXn_o.jpg"><img src="./Rose-pine/2jzlLHXn_o.jpg" width="200"/></a> 
-<a href="./Rose-pine/50.jpg"><img src="./Rose-pine/50.jpg" width="200"/></a> 
-<a href="./Rose-pine/98E618FE-2564-41F8-9620-2F7C60388064.jpg"><img src="./Rose-pine/98E618FE-2564-41F8-9620-2F7C60388064.jpg" width="200"/></a> 
-<a href="./Rose-pine/KaliPink1.png"><img src="./Rose-pine/KaliPink1.png" width="200"/></a> 
-<a href="./Rose-pine/KaliPink3.png"><img src="./Rose-pine/KaliPink3.png" width="200"/></a> 
-<a href="./Rose-pine/alx-sunset-over-palm-trees.png"><img src="./Rose-pine/alx-sunset-over-palm-trees.png" width="200"/></a> 
-<a href="./Rose-pine/anime-dragon-character-illustration.jpg"><img src="./Rose-pine/anime-dragon-character-illustration.jpg" width="200"/></a> 
-<a href="./Rose-pine/b-444.jpg"><img src="./Rose-pine/b-444.jpg" width="200"/></a> 
-<a href="./Rose-pine/bastien-grivet-the-guy-and-the-id-checking-bot.jpg"><img src="./Rose-pine/bastien-grivet-the-guy-and-the-id-checking-bot.jpg" width="200"/></a> 
-<a href="./Rose-pine/blackwolfshadow1-wolf-of-the-night.jpg"><img src="./Rose-pine/blackwolfshadow1-wolf-of-the-night.jpg" width="200"/></a> 
-<a href="./Rose-pine/craig-nacroix-mountains.jpg"><img src="./Rose-pine/craig-nacroix-mountains.jpg" width="200"/></a> 
-<a href="./Rose-pine/flowers_1.jpg"><img src="./Rose-pine/flowers_1.jpg" width="200"/></a> 
-<a href="./Rose-pine/flowers_2.jpg"><img src="./Rose-pine/flowers_2.jpg" width="200"/></a> 
-<a href="./Rose-pine/flowers_3.jpg"><img src="./Rose-pine/flowers_3.jpg" width="200"/></a> 
-<a href="./Rose-pine/japan_mountain_pink.jpg"><img src="./Rose-pine/japan_mountain_pink.jpg" width="200"/></a> 
-<a href="./Rose-pine/japan_tower_pink.jpg"><img src="./Rose-pine/japan_tower_pink.jpg" width="200"/></a> 
-<a href="./Rose-pine/japanese-pagodas-clouds-desktop-wallpaper.jpg"><img src="./Rose-pine/japanese-pagodas-clouds-desktop-wallpaper.jpg" width="200"/></a> 
-<a href="./Rose-pine/ogarart-red-cave.jpg"><img src="./Rose-pine/ogarart-red-cave.jpg" width="200"/></a> 
-<a href="./Rose-pine/ogarart-red-mountains-lake-2019-10-06.jpg"><img src="./Rose-pine/ogarart-red-mountains-lake-2019-10-06.jpg" width="200"/></a> 
-<a href="./Rose-pine/ogarart-red-mountains.jpg"><img src="./Rose-pine/ogarart-red-mountains.jpg" width="200"/></a> 
-<a href="./Rose-pine/pool.png"><img src="./Rose-pine/pool.png" width="200"/></a> 
-<a href="./Rose-pine/saber_sakura_1.jpg"><img src="./Rose-pine/saber_sakura_1.jpg" width="200"/></a> 
-<a href="./Rose-pine/saber_sakura_2.jpg"><img src="./Rose-pine/saber_sakura_2.jpg" width="200"/></a> 
-<a href="./Rose-pine/saber_sakura_3.jpg"><img src="./Rose-pine/saber_sakura_3.jpg" width="200"/></a> 
-<a href="./Rose-pine/samurai_bebop_1.jpg"><img src="./Rose-pine/samurai_bebop_1.jpg" width="200"/></a> 
-<a href="./Rose-pine/samurai_bebop_2.jpg"><img src="./Rose-pine/samurai_bebop_2.jpg" width="200"/></a> 
-<a href="./Rose-pine/samurai_smoke.jpg"><img src="./Rose-pine/samurai_smoke.jpg" width="200"/></a> 
-<a href="./Rose-pine/scenary.jpg"><img src="./Rose-pine/scenary.jpg" width="200"/></a> 
-<a href="./Rose-pine/sunset_cats.png"><img src="./Rose-pine/sunset_cats.png" width="200"/></a> 
-<a href="./Rose-pine/unknown-couple-on-red-mountains.jpg"><img src="./Rose-pine/unknown-couple-on-red-mountains.jpg" width="200"/></a> 
-<a href="./Rose-pine/unknown-pink-sunset-mountain-trees.png"><img src="./Rose-pine/unknown-pink-sunset-mountain-trees.png" width="200"/></a> 
-<a href="./Rose-pine/wallhaven-01kgv4.jpg"><img src="./Rose-pine/wallhaven-01kgv4.jpg" width="200"/></a> 
-<a href="./Rose-pine/wallhaven-2kvj8g.jpg"><img src="./Rose-pine/wallhaven-2kvj8g.jpg" width="200"/></a> 
-<a href="./Rose-pine/wallhaven-j3gv2w.jpg"><img src="./Rose-pine/wallhaven-j3gv2w.jpg" width="200"/></a> 
-<a href="./Rose-pine/wallhaven-kx5z9m.jpg"><img src="./Rose-pine/wallhaven-kx5z9m.jpg" width="200"/></a> 
-<a href="./Rose-pine/wallhaven-qzeez5.png"><img src="./Rose-pine/wallhaven-qzeez5.png" width="200"/></a> 
-<a href="./Rose-pine/wallhaven-rd2jw1.png"><img src="./Rose-pine/wallhaven-rd2jw1.png" width="200"/></a> 
-<a href="./Rose-pine/wallpaper7.png"><img src="./Rose-pine/wallpaper7.png" width="200"/></a> 
-<a href="./Rose-pine/wallpaper8.png"><img src="./Rose-pine/wallpaper8.png" width="200"/></a> 
-<a href="./Rose-pine/wallpaper9.png"><img src="./Rose-pine/wallpaper9.png" width="200"/></a> 
-<a href="./Rose-pine/wallpaperflare.com_wallpaper.jpg"><img src="./Rose-pine/wallpaperflare.com_wallpaper.jpg" width="200"/></a> 
-<a href="./Rose-pine/wallpapersden.com_cool-red-mountains-4k.jpg"><img src="./Rose-pine/wallpapersden.com_cool-red-mountains-4k.jpg" width="200"/></a> 
 
 ---
 
@@ -271,6 +222,7 @@ Click any thumbnail below to view the full-resolution image!
 <a href="./hikio-collection/2b.jpg"><img src="./hikio-collection/2b.jpg" width="200"/></a> 
 <a href="./hikio-collection/5dIqO72.jpg"><img src="./hikio-collection/5dIqO72.jpg" width="200"/></a> 
 <a href="./hikio-collection/818991.jpg"><img src="./hikio-collection/818991.jpg" width="200"/></a> 
+<a href="./hikio-collection/DKoRY7F.jpeg"><img src="./hikio-collection/DKoRY7F.jpeg" width="200"/></a> 
 <a href="./hikio-collection/HfTHAjN0wk4MkCQ.jpg"><img src="./hikio-collection/HfTHAjN0wk4MkCQ.jpg" width="200"/></a> 
 <a href="./hikio-collection/a_cartoon_of_a_flying_ship_with_buildings_and_a_person_walking.jpg"><img src="./hikio-collection/a_cartoon_of_a_flying_ship_with_buildings_and_a_person_walking.jpg" width="200"/></a> 
 <a href="./hikio-collection/a_city_at_night_with_lights.jpg"><img src="./hikio-collection/a_city_at_night_with_lights.jpg" width="200"/></a> 
@@ -284,24 +236,36 @@ Click any thumbnail below to view the full-resolution image!
 <a href="./hikio-collection/a_mountain_with_snow_and_clouds_01.jpg"><img src="./hikio-collection/a_mountain_with_snow_and_clouds_01.jpg" width="200"/></a> 
 <a href="./hikio-collection/a_person_riding_a_bicycle_on_a_hill_with_sunflowers.jpeg"><img src="./hikio-collection/a_person_riding_a_bicycle_on_a_hill_with_sunflowers.jpeg" width="200"/></a> 
 <a href="./hikio-collection/a_road_surrounded_by_trees.jpg"><img src="./hikio-collection/a_road_surrounded_by_trees.jpg" width="200"/></a> 
+<a href="./hikio-collection/anna-scarfiello-Pxf5syDVuxQ.jpg"><img src="./hikio-collection/anna-scarfiello-Pxf5syDVuxQ.jpg" width="200"/></a> 
 <a href="./hikio-collection/b-058.jpg"><img src="./hikio-collection/b-058.jpg" width="200"/></a> 
 <a href="./hikio-collection/backgrounds270.jpg"><img src="./hikio-collection/backgrounds270.jpg" width="200"/></a> 
 <a href="./hikio-collection/blue_moon_and_lake.jpg"><img src="./hikio-collection/blue_moon_and_lake.jpg" width="200"/></a> 
+<a href="./hikio-collection/castle.jpg"><img src="./hikio-collection/castle.jpg" width="200"/></a> 
 <a href="./hikio-collection/cawr.jpg"><img src="./hikio-collection/cawr.jpg" width="200"/></a> 
 <a href="./hikio-collection/city.jpg"><img src="./hikio-collection/city.jpg" width="200"/></a> 
 <a href="./hikio-collection/colloseum.jpg"><img src="./hikio-collection/colloseum.jpg" width="200"/></a> 
 <a href="./hikio-collection/dreamy.jpeg"><img src="./hikio-collection/dreamy.jpeg" width="200"/></a> 
 <a href="./hikio-collection/earathlysteller.jpg"><img src="./hikio-collection/earathlysteller.jpg" width="200"/></a> 
+<a href="./hikio-collection/forest.jpg"><img src="./hikio-collection/forest.jpg" width="200"/></a> 
 <a href="./hikio-collection/greenery_mountain.jpg"><img src="./hikio-collection/greenery_mountain.jpg" width="200"/></a> 
 <a href="./hikio-collection/intha.jpg"><img src="./hikio-collection/intha.jpg" width="200"/></a> 
+<a href="./hikio-collection/jake-weirick-EsvpmQ4zp5Y.jpg"><img src="./hikio-collection/jake-weirick-EsvpmQ4zp5Y.jpg" width="200"/></a> 
+<a href="./hikio-collection/kace-rodriguez-p3OzJuT_Dks.jpg"><img src="./hikio-collection/kace-rodriguez-p3OzJuT_Dks.jpg" width="200"/></a> 
+<a href="./hikio-collection/kurt-cotoaga-cqbLg3lZEpk.jpg"><img src="./hikio-collection/kurt-cotoaga-cqbLg3lZEpk.jpg" width="200"/></a> 
 <a href="./hikio-collection/lake_tree_nautre.jpg"><img src="./hikio-collection/lake_tree_nautre.jpg" width="200"/></a> 
 <a href="./hikio-collection/law-statue.jpg"><img src="./hikio-collection/law-statue.jpg" width="200"/></a> 
+<a href="./hikio-collection/maciek-sulkowski-KvXQBeoolwU.jpg"><img src="./hikio-collection/maciek-sulkowski-KvXQBeoolwU.jpg" width="200"/></a> 
+<a href="./hikio-collection/mohammad-alizade-4wzRuAb-KWs.jpg"><img src="./hikio-collection/mohammad-alizade-4wzRuAb-KWs.jpg" width="200"/></a> 
 <a href="./hikio-collection/mountain_lake_nature.jpg"><img src="./hikio-collection/mountain_lake_nature.jpg" width="200"/></a> 
+<a href="./hikio-collection/mountains-2.png"><img src="./hikio-collection/mountains-2.png" width="200"/></a> 
+<a href="./hikio-collection/mountains2.jpg"><img src="./hikio-collection/mountains2.jpg" width="200"/></a> 
 <a href="./hikio-collection/mountains_sky_clouds.jpg"><img src="./hikio-collection/mountains_sky_clouds.jpg" width="200"/></a> 
 <a href="./hikio-collection/mystic.jpg"><img src="./hikio-collection/mystic.jpg" width="200"/></a> 
+<a href="./hikio-collection/nathan-anderson-SAB5Y1HS7NY.jpg"><img src="./hikio-collection/nathan-anderson-SAB5Y1HS7NY.jpg" width="200"/></a> 
 <a href="./hikio-collection/nature_lake_mountain.jpg"><img src="./hikio-collection/nature_lake_mountain.jpg" width="200"/></a> 
 <a href="./hikio-collection/power_lines_and_trees_at_sunset.jpg"><img src="./hikio-collection/power_lines_and_trees_at_sunset.jpg" width="200"/></a> 
 <a href="./hikio-collection/road-mountain.jpg"><img src="./hikio-collection/road-mountain.jpg" width="200"/></a> 
+<a href="./hikio-collection/road.jpg"><img src="./hikio-collection/road.jpg" width="200"/></a> 
 <a href="./hikio-collection/soviet-statue-2.jpg"><img src="./hikio-collection/soviet-statue-2.jpg" width="200"/></a> 
 <a href="./hikio-collection/soviet-statue-3.jpg"><img src="./hikio-collection/soviet-statue-3.jpg" width="200"/></a> 
 <a href="./hikio-collection/soviet-statue.jpg"><img src="./hikio-collection/soviet-statue.jpg" width="200"/></a> 
@@ -316,7 +280,6 @@ Click any thumbnail below to view the full-resolution image!
 <a href="./hikio-collection/yukino-5.png"><img src="./hikio-collection/yukino-5.png" width="200"/></a> 
 <a href="./hikio-collection/yukino.jpg"><img src="./hikio-collection/yukino.jpg" width="200"/></a> 
 <a href="./hikio-collection/yukino.png"><img src="./hikio-collection/yukino.png" width="200"/></a> 
-
 
 ---
 
@@ -518,5 +481,5 @@ Click any thumbnail below to view the full-resolution image!
 <a href="./xyarjun-collection/anime/power_lines_and_trees_at_sunset.jpg"><img src="./xyarjun-collection/anime/power_lines_and_trees_at_sunset.jpg" width="200"/></a> 
 
 ---
-# AND MANY MORE WALLS INSIDE DIRECTORY
+# AND MANY MORE WALLS INSIDE DIRS
 ---
